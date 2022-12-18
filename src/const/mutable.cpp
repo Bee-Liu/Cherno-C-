@@ -3,6 +3,8 @@
 
 int main()
 {
-     int i = 19;
+    using namespace std::string_literals;
+    std::string name = "Hello"s+"World";
+    std::cout << name << std::endl;
     return 0;
 }
