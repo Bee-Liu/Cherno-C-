@@ -3,17 +3,20 @@
 
 class Entity
 {
-    private:
+private:
     std::string name;
-    public:
-    const std::string& getName() const { return name; }
+public:
+    const std::string& getName() const
+    {
+        return name;
+    }
 };
 
 int main()
 {
 
     using namespace std::string_literals;
-    std::string name = "Hello"s+"World";
+    std::string name = "Hello"s + "World";
     std::cout << name << std::endl;
     return 0;
 }
