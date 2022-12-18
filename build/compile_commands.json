@@ -26,6 +26,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Ternary_operator.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Ternary operator.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Ternary operator.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\The_destructor_function.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\The destructor function.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/The destructor function.cpp"
 },

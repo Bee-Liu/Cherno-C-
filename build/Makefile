@@ -248,6 +248,30 @@ src/Pure_virtual_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.s
 .PHONY : src/Pure_virtual_function.cpp.s
 
+src/Ternary_operator.obj: src/Ternary_operator.cpp.obj
+.PHONY : src/Ternary_operator.obj
+
+# target to build an object file
+src/Ternary_operator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj
+.PHONY : src/Ternary_operator.cpp.obj
+
+src/Ternary_operator.i: src/Ternary_operator.cpp.i
+.PHONY : src/Ternary_operator.i
+
+# target to preprocess a source file
+src/Ternary_operator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.i
+.PHONY : src/Ternary_operator.cpp.i
+
+src/Ternary_operator.s: src/Ternary_operator.cpp.s
+.PHONY : src/Ternary_operator.s
+
+# target to generate assembly for a file
+src/Ternary_operator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.s
+.PHONY : src/Ternary_operator.cpp.s
+
 src/The_destructor_function.obj: src/The_destructor_function.cpp.obj
 .PHONY : src/The_destructor_function.obj
 
@@ -488,6 +512,9 @@ help:
 	@echo ... src/Pure_virtual_function.obj
 	@echo ... src/Pure_virtual_function.i
 	@echo ... src/Pure_virtual_function.s
+	@echo ... src/Ternary_operator.obj
+	@echo ... src/Ternary_operator.i
+	@echo ... src/Ternary_operator.s
 	@echo ... src/The_destructor_function.obj
 	@echo ... src/The_destructor_function.i
 	@echo ... src/The_destructor_function.s

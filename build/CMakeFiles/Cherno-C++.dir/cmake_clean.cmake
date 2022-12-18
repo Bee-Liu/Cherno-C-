@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj"

@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/Log.cpp" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Member initializer list.cpp" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Ternary operator.cpp" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/The destructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/const/C++const.cpp" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj.d"
