@@ -203,96 +203,6 @@ CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.s"
 	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\inheritance.cpp -o CMakeFiles\Cherno-C++.dir\src\inheritance.cpp.s
 
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: G:/C++_TEst/Cherno-C++/src/string/String\ literals.cpp
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\string\String_literals.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\string\String_literals.cpp.obj -c "G:\C++_TEst\Cherno-C++\src\string\String literals.cpp"
-
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\C++_TEst\Cherno-C++\src\string\String literals.cpp" > CMakeFiles\Cherno-C++.dir\src\string\String_literals.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\C++_TEst\Cherno-C++\src\string\String literals.cpp" -o CMakeFiles\Cherno-C++.dir\src\string\String_literals.cpp.s
-
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: G:/C++_TEst/Cherno-C++/src/string/string.cpp
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\string\string.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\string\string.cpp.obj -c G:\C++_TEst\Cherno-C++\src\string\string.cpp
-
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/string/string.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++_TEst\Cherno-C++\src\string\string.cpp > CMakeFiles\Cherno-C++.dir\src\string\string.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/string/string.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/string/string.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\string\string.cpp -o CMakeFiles\Cherno-C++.dir\src\string\string.cpp.s
-
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj: G:/C++_TEst/Cherno-C++/src/static/Static.cpp
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\static\Static.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\static\Static.cpp.obj -c G:\C++_TEst\Cherno-C++\src\static\Static.cpp
-
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++_TEst\Cherno-C++\src\static\Static.cpp > CMakeFiles\Cherno-C++.dir\src\static\Static.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\static\Static.cpp -o CMakeFiles\Cherno-C++.dir\src\static\Static.cpp.s
-
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj: G:/C++_TEst/Cherno-C++/src/static/Test.cpp
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\static\Test.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\static\Test.cpp.obj -c G:\C++_TEst\Cherno-C++\src\static\Test.cpp
-
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++_TEst\Cherno-C++\src\static\Test.cpp > CMakeFiles\Cherno-C++.dir\src\static\Test.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\static\Test.cpp -o CMakeFiles\Cherno-C++.dir\src\static\Test.cpp.s
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\const\C++const.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\const\C++const.cpp.obj -c G:\C++_TEst\Cherno-C++\src\const\C++const.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++_TEst\Cherno-C++\src\const\C++const.cpp > CMakeFiles\Cherno-C++.dir\src\const\C++const.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\const\C++const.cpp -o CMakeFiles\Cherno-C++.dir\src\const\C++const.cpp.s
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: CMakeFiles/Cherno-C++.dir/flags.make
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: CMakeFiles/Cherno-C++.dir/includes_CXX.rsp
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: CMakeFiles/Cherno-C++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj -MF CMakeFiles\Cherno-C++.dir\src\const\mutable.cpp.obj.d -o CMakeFiles\Cherno-C++.dir\src\const\mutable.cpp.obj -c G:\C++_TEst\Cherno-C++\src\const\mutable.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.i"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++_TEst\Cherno-C++\src\const\mutable.cpp > CMakeFiles\Cherno-C++.dir\src\const\mutable.cpp.i
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.s"
-	E:\visual\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++_TEst\Cherno-C++\src\const\mutable.cpp -o CMakeFiles\Cherno-C++.dir\src\const\mutable.cpp.s
-
 # Object files for target Cherno-C++
 Cherno__C_______OBJECTS = \
 "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj" \
@@ -303,13 +213,7 @@ Cherno__C_______OBJECTS = \
 "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj" \
 "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj" \
 "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj" \
-"CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj"
+"CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj"
 
 # External object files for target Cherno-C++
 Cherno__C_______EXTERNAL_OBJECTS =
@@ -323,17 +227,11 @@ Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
-Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/build.make
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/linkLibs.rsp
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/objects1
 Cherno-C++.exe: CMakeFiles/Cherno-C++.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Cherno-C++.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\C++_TEst\Cherno-C++\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Cherno-C++.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Cherno-C++.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

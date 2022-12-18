@@ -2,12 +2,15 @@ cmake_minimum_required(VERSION 3.25.1) #声明版本号
 
 project(Cherno-C++)
 
-aux_source_directory(src SRC_SOURCE_DIR)
-aux_source_directory(src/string SRC_DIR)
-aux_source_directory(src/static STATIC)
-aux_source_directory(src/const CONST)
+# aux_source_directory(src SRC_SOURCE_DIR)
+# aux_source_directory(src/string SRC_DIR)
+# aux_source_directory(src/static STATIC)
+# aux_source_directory(src/const CONST)
+
+file(GLOB SRC_FILES src/*.cpp)
 
 include_directories(include lib)
 
-add_executable(Cherno-C++ ${SRC_SOURCE_DIR} ${SRC_DIR} ${STATIC} ${CONST}) 
+add_executable(Cherno-C++ ${SRC_FILES}) 
 
+# ${SRC_SOURCE_DIR} ${SRC_DIR} ${STATIC} ${CONST}

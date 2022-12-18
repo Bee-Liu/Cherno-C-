@@ -16,13 +16,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/Ternary operator.cpp" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/The destructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/const/C++const.cpp" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/const/mutable.cpp" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/inheritance.cpp" "CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/static/Static.cpp" "CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/static/Test.cpp" "CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/string/String literals.cpp" "CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj.d"
-  "G:/C++_TEst/Cherno-C++/src/string/string.cpp" "CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj.d"
   )
 
 # Targets to which this target links.
