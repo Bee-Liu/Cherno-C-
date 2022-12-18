@@ -18,12 +18,12 @@ int main()
 {
     const Entity e;
     e.getName();
-    //FIXME:lambada
-    int x =8;
-    auto f = [&]() mutable 
+    //FIXME:lambada:一般不会使用这个函数
+    int x = 8;
+    auto f = [&]() mutable
     {
         x++;
-        std::cout<<x<<std::endl;
+        std::cout << x << std::endl;
     };
     f();
 
