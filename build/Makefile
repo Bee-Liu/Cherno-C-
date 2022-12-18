@@ -200,6 +200,30 @@ src/Log.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Log.cpp.s
 .PHONY : src/Log.cpp.s
 
+src/Member_initializer_list.obj: src/Member_initializer_list.cpp.obj
+.PHONY : src/Member_initializer_list.obj
+
+# target to build an object file
+src/Member_initializer_list.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj
+.PHONY : src/Member_initializer_list.cpp.obj
+
+src/Member_initializer_list.i: src/Member_initializer_list.cpp.i
+.PHONY : src/Member_initializer_list.i
+
+# target to preprocess a source file
+src/Member_initializer_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.i
+.PHONY : src/Member_initializer_list.cpp.i
+
+src/Member_initializer_list.s: src/Member_initializer_list.cpp.s
+.PHONY : src/Member_initializer_list.s
+
+# target to generate assembly for a file
+src/Member_initializer_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.s
+.PHONY : src/Member_initializer_list.cpp.s
+
 src/Pure_virtual_function.obj: src/Pure_virtual_function.cpp.obj
 .PHONY : src/Pure_virtual_function.obj
 
@@ -458,6 +482,9 @@ help:
 	@echo ... src/Log.obj
 	@echo ... src/Log.i
 	@echo ... src/Log.s
+	@echo ... src/Member_initializer_list.obj
+	@echo ... src/Member_initializer_list.i
+	@echo ... src/Member_initializer_list.s
 	@echo ... src/Pure_virtual_function.obj
 	@echo ... src/Pure_virtual_function.i
 	@echo ... src/Pure_virtual_function.s

@@ -16,6 +16,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Member_initializer_list.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Member initializer list.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Member initializer list.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Pure_virtual_function.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Pure virtual function.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp"
 },

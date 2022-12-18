@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj"

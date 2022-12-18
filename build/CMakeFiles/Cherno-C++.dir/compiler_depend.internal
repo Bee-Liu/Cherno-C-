@@ -10,20 +10,8 @@ CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj
  G:/C++_TEst/Cherno-C++/src/Log.cpp
 
-CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj
- G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj
- G:/C++_TEst/Cherno-C++/src/The destructor function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj
- G:/C++_TEst/Cherno-C++/src/Virtual function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
- G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
- G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
+CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Member initializer list.cpp
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h
@@ -150,6 +138,21 @@ CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream
  E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc
+
+CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/The destructor function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Virtual function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
 
 CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj
  G:/C++_TEst/Cherno-C++/src/inheritance.cpp

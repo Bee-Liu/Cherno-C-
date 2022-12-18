@@ -7,15 +7,7 @@ CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj: G:/C++_TEst/Cherno-C
 
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj: G:/C++_TEst/Cherno-C++/src/Log.cpp
 
-CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/mutable.cpp \
+CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj: G:/C++_TEst/Cherno-C++/src/Member\ initializer\ list.cpp \
   E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
   E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
   E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -143,6 +135,16 @@ CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/
   E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
   E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc
 
+CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
+
 CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj: G:/C++_TEst/Cherno-C++/src/inheritance.cpp
 
 CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj: G:/C++_TEst/Cherno-C++/src/static/Static.cpp
@@ -154,13 +156,19 @@ CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: G:/C++_TEst/Cherno
 CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: G:/C++_TEst/Cherno-C++/src/string/string.cpp
 
 
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h:
+E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h:
 
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h:
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
 
-G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:
 
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/typeinfo:
+E:/visual/mingw64/x86_64-w64-mingw32/include/locale.h:
+
+E:/visual/mingw64/x86_64-w64-mingw32/include/stdint.h:
+
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc:
+
+G:/C++_TEst/Cherno-C++/src/Member\ initializer\ list.cpp:
 
 G:/C++_TEst/Cherno-C++/src/C++Array.cpp:
 
@@ -170,27 +178,13 @@ G:/C++_TEst/Cherno-C++/src/Constructor\ function.cpp:
 
 G:/C++_TEst/Cherno-C++/src/Log.cpp:
 
-E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
 
-G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp:
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/concept_check.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h:
-
-G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
-
-G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp:
-
-G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:
-
-E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:
 
@@ -234,6 +228,8 @@ E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw.h:
 
 E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
 
+E:/visual/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/debug.h:
 
 E:/visual/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
@@ -260,6 +256,10 @@ E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception_ptr.h:
 
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/range_access.h:
+
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/clocale:
+
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:
@@ -268,11 +268,19 @@ E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cxxabi_init_
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h:
 
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h:
+
+G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
+
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h:
+
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/typeinfo:
+
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hash_bytes.h:
 
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/localefwd.h:
-
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/new:
+
+E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/localefwd.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits:
 
@@ -293,16 +301,6 @@ E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h:
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdint:
-
-E:/visual/mingw64/x86_64-w64-mingw32/include/stdint.h:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/range_access.h:
-
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/clocale:
-
-E:/visual/mingw64/x86_64-w64-mingw32/include/locale.h:
 
 E:/visual/mingw64/x86_64-w64-mingw32/include/stdio.h:
 
@@ -392,8 +390,6 @@ E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_h
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc:
 
-E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc:
-
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdexcept:
@@ -423,6 +419,14 @@ E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc:
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:
 
 E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc:
+
+G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp:
+
+G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp:
+
+G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp:
+
+G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
 
 G:/C++_TEst/Cherno-C++/src/inheritance.cpp:
 
