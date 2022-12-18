@@ -1,0 +1,3 @@
+G:/C++_TEst/Cherno-C++/build/CMakeFiles/Cherno-C++.dir
+G:/C++_TEst/Cherno-C++/build/CMakeFiles/edit_cache.dir
+G:/C++_TEst/Cherno-C++/build/CMakeFiles/rebuild_cache.dir

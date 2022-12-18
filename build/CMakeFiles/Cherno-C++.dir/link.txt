@@ -1,0 +1,3 @@
+E:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Cherno-C++.dir/objects.a
+E:\visual\mingw64\bin\ar.exe qc CMakeFiles\Cherno-C++.dir/objects.a @CMakeFiles\Cherno-C++.dir\objects1
+E:\visual\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Cherno-C++.dir/objects.a -Wl,--no-whole-archive -o Cherno-C++.exe -Wl,--out-implib,libCherno-C++.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cherno-C++.dir\linkLibs.rsp
