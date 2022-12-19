@@ -11,6 +11,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Implicit_and_explicit.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Implicit and explicit.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Implicit and explicit.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Log.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\Log.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/Log.cpp"
 },
