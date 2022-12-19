@@ -176,6 +176,30 @@ src/Constructor_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.s
 .PHONY : src/Constructor_function.cpp.s
 
+src/Create_c++_objects.obj: src/Create_c++_objects.cpp.obj
+.PHONY : src/Create_c++_objects.obj
+
+# target to build an object file
+src/Create_c++_objects.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.obj
+.PHONY : src/Create_c++_objects.cpp.obj
+
+src/Create_c++_objects.i: src/Create_c++_objects.cpp.i
+.PHONY : src/Create_c++_objects.i
+
+# target to preprocess a source file
+src/Create_c++_objects.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.i
+.PHONY : src/Create_c++_objects.cpp.i
+
+src/Create_c++_objects.s: src/Create_c++_objects.cpp.s
+.PHONY : src/Create_c++_objects.s
+
+# target to generate assembly for a file
+src/Create_c++_objects.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.s
+.PHONY : src/Create_c++_objects.cpp.s
+
 src/Log.obj: src/Log.cpp.obj
 .PHONY : src/Log.obj
 
@@ -359,6 +383,9 @@ help:
 	@echo ... src/Constructor_function.obj
 	@echo ... src/Constructor_function.i
 	@echo ... src/Constructor_function.s
+	@echo ... src/Create_c++_objects.obj
+	@echo ... src/Create_c++_objects.i
+	@echo ... src/Create_c++_objects.s
 	@echo ... src/Log.obj
 	@echo ... src/Log.i
 	@echo ... src/Log.s

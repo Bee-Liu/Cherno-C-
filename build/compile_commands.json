@@ -11,6 +11,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Create_c++_objects.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Create c++ objects.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Create c++ objects.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Log.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\Log.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/Log.cpp"
 },

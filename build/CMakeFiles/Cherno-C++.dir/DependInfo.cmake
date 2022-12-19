@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/C++Array.cpp" "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Constructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Create c++ objects.cpp" "CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Log.cpp" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Member initializer list.cpp" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj.d"
