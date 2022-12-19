@@ -8,15 +8,15 @@
 
 // int main()
 // {
-//     const char* name= "Hello,world!";
+//     const char* name = "Hello,world!";
 //     std::cout << name << std::endl;
 //     PrintString(name);
 
-//     std::string Name=std::string("Hello,")+"world!";
+//     std::string Name = std::string("Hello,") + "world!";
 //     PrintString(Name);
-//     bool state=Name.find("ld") != std::string::npos;
-//     std::cout<<state<<std::endl;
+//     bool state = Name.find("ld") != std::string::npos;
+//     std::cout << state << std::endl;
 
 
 //     return 0;
-// } 
+// }

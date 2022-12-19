@@ -11,11 +11,6 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
-  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Create_c++_objects.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Create c++ objects.cpp\"",
-  "file": "G:/C++_TEst/Cherno-C++/src/Create c++ objects.cpp"
-},
-{
-  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Log.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\Log.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/Log.cpp"
 },
@@ -46,7 +41,47 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\const\\C++const.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\const\\C++const.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/const/C++const.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\const\\mutable.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\const\\mutable.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/const/mutable.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\inheritance.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\inheritance.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/inheritance.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\new\\Create_c++_objects.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\new\\Create c++ objects.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/new/Create c++ objects.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\new\\new.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\new\\new.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/new/new.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\static\\Static.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\static\\Static.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/static/Static.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\static\\Test.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\static\\Test.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/static/Test.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\string\\String_literals.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\string\\String literals.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/string/String literals.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\string\\string.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\string\\string.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/string/string.cpp"
 }
 ]

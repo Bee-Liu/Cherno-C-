@@ -176,30 +176,6 @@ src/Constructor_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.s
 .PHONY : src/Constructor_function.cpp.s
 
-src/Create_c++_objects.obj: src/Create_c++_objects.cpp.obj
-.PHONY : src/Create_c++_objects.obj
-
-# target to build an object file
-src/Create_c++_objects.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.obj
-.PHONY : src/Create_c++_objects.cpp.obj
-
-src/Create_c++_objects.i: src/Create_c++_objects.cpp.i
-.PHONY : src/Create_c++_objects.i
-
-# target to preprocess a source file
-src/Create_c++_objects.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.i
-.PHONY : src/Create_c++_objects.cpp.i
-
-src/Create_c++_objects.s: src/Create_c++_objects.cpp.s
-.PHONY : src/Create_c++_objects.s
-
-# target to generate assembly for a file
-src/Create_c++_objects.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Create_c++_objects.cpp.s
-.PHONY : src/Create_c++_objects.cpp.s
-
 src/Log.obj: src/Log.cpp.obj
 .PHONY : src/Log.obj
 
@@ -344,6 +320,54 @@ src/Virtual_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.s
 .PHONY : src/Virtual_function.cpp.s
 
+src/const/C++const.obj: src/const/C++const.cpp.obj
+.PHONY : src/const/C++const.obj
+
+# target to build an object file
+src/const/C++const.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
+.PHONY : src/const/C++const.cpp.obj
+
+src/const/C++const.i: src/const/C++const.cpp.i
+.PHONY : src/const/C++const.i
+
+# target to preprocess a source file
+src/const/C++const.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.i
+.PHONY : src/const/C++const.cpp.i
+
+src/const/C++const.s: src/const/C++const.cpp.s
+.PHONY : src/const/C++const.s
+
+# target to generate assembly for a file
+src/const/C++const.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.s
+.PHONY : src/const/C++const.cpp.s
+
+src/const/mutable.obj: src/const/mutable.cpp.obj
+.PHONY : src/const/mutable.obj
+
+# target to build an object file
+src/const/mutable.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
+.PHONY : src/const/mutable.cpp.obj
+
+src/const/mutable.i: src/const/mutable.cpp.i
+.PHONY : src/const/mutable.i
+
+# target to preprocess a source file
+src/const/mutable.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.i
+.PHONY : src/const/mutable.cpp.i
+
+src/const/mutable.s: src/const/mutable.cpp.s
+.PHONY : src/const/mutable.s
+
+# target to generate assembly for a file
+src/const/mutable.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.s
+.PHONY : src/const/mutable.cpp.s
+
 src/inheritance.obj: src/inheritance.cpp.obj
 .PHONY : src/inheritance.obj
 
@@ -368,6 +392,150 @@ src/inheritance.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.s
 .PHONY : src/inheritance.cpp.s
 
+src/new/Create_c++_objects.obj: src/new/Create_c++_objects.cpp.obj
+.PHONY : src/new/Create_c++_objects.obj
+
+# target to build an object file
+src/new/Create_c++_objects.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/Create_c++_objects.cpp.obj
+.PHONY : src/new/Create_c++_objects.cpp.obj
+
+src/new/Create_c++_objects.i: src/new/Create_c++_objects.cpp.i
+.PHONY : src/new/Create_c++_objects.i
+
+# target to preprocess a source file
+src/new/Create_c++_objects.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/Create_c++_objects.cpp.i
+.PHONY : src/new/Create_c++_objects.cpp.i
+
+src/new/Create_c++_objects.s: src/new/Create_c++_objects.cpp.s
+.PHONY : src/new/Create_c++_objects.s
+
+# target to generate assembly for a file
+src/new/Create_c++_objects.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/Create_c++_objects.cpp.s
+.PHONY : src/new/Create_c++_objects.cpp.s
+
+src/new/new.obj: src/new/new.cpp.obj
+.PHONY : src/new/new.obj
+
+# target to build an object file
+src/new/new.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/new.cpp.obj
+.PHONY : src/new/new.cpp.obj
+
+src/new/new.i: src/new/new.cpp.i
+.PHONY : src/new/new.i
+
+# target to preprocess a source file
+src/new/new.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/new.cpp.i
+.PHONY : src/new/new.cpp.i
+
+src/new/new.s: src/new/new.cpp.s
+.PHONY : src/new/new.s
+
+# target to generate assembly for a file
+src/new/new.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/new/new.cpp.s
+.PHONY : src/new/new.cpp.s
+
+src/static/Static.obj: src/static/Static.cpp.obj
+.PHONY : src/static/Static.obj
+
+# target to build an object file
+src/static/Static.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.obj
+.PHONY : src/static/Static.cpp.obj
+
+src/static/Static.i: src/static/Static.cpp.i
+.PHONY : src/static/Static.i
+
+# target to preprocess a source file
+src/static/Static.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.i
+.PHONY : src/static/Static.cpp.i
+
+src/static/Static.s: src/static/Static.cpp.s
+.PHONY : src/static/Static.s
+
+# target to generate assembly for a file
+src/static/Static.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Static.cpp.s
+.PHONY : src/static/Static.cpp.s
+
+src/static/Test.obj: src/static/Test.cpp.obj
+.PHONY : src/static/Test.obj
+
+# target to build an object file
+src/static/Test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.obj
+.PHONY : src/static/Test.cpp.obj
+
+src/static/Test.i: src/static/Test.cpp.i
+.PHONY : src/static/Test.i
+
+# target to preprocess a source file
+src/static/Test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.i
+.PHONY : src/static/Test.cpp.i
+
+src/static/Test.s: src/static/Test.cpp.s
+.PHONY : src/static/Test.s
+
+# target to generate assembly for a file
+src/static/Test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/static/Test.cpp.s
+.PHONY : src/static/Test.cpp.s
+
+src/string/String_literals.obj: src/string/String_literals.cpp.obj
+.PHONY : src/string/String_literals.obj
+
+# target to build an object file
+src/string/String_literals.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj
+.PHONY : src/string/String_literals.cpp.obj
+
+src/string/String_literals.i: src/string/String_literals.cpp.i
+.PHONY : src/string/String_literals.i
+
+# target to preprocess a source file
+src/string/String_literals.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.i
+.PHONY : src/string/String_literals.cpp.i
+
+src/string/String_literals.s: src/string/String_literals.cpp.s
+.PHONY : src/string/String_literals.s
+
+# target to generate assembly for a file
+src/string/String_literals.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.s
+.PHONY : src/string/String_literals.cpp.s
+
+src/string/string.obj: src/string/string.cpp.obj
+.PHONY : src/string/string.obj
+
+# target to build an object file
+src/string/string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj
+.PHONY : src/string/string.cpp.obj
+
+src/string/string.i: src/string/string.cpp.i
+.PHONY : src/string/string.i
+
+# target to preprocess a source file
+src/string/string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/string.cpp.i
+.PHONY : src/string/string.cpp.i
+
+src/string/string.s: src/string/string.cpp.s
+.PHONY : src/string/string.s
+
+# target to generate assembly for a file
+src/string/string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/string.cpp.s
+.PHONY : src/string/string.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -383,9 +551,6 @@ help:
 	@echo ... src/Constructor_function.obj
 	@echo ... src/Constructor_function.i
 	@echo ... src/Constructor_function.s
-	@echo ... src/Create_c++_objects.obj
-	@echo ... src/Create_c++_objects.i
-	@echo ... src/Create_c++_objects.s
 	@echo ... src/Log.obj
 	@echo ... src/Log.i
 	@echo ... src/Log.s
@@ -404,9 +569,33 @@ help:
 	@echo ... src/Virtual_function.obj
 	@echo ... src/Virtual_function.i
 	@echo ... src/Virtual_function.s
+	@echo ... src/const/C++const.obj
+	@echo ... src/const/C++const.i
+	@echo ... src/const/C++const.s
+	@echo ... src/const/mutable.obj
+	@echo ... src/const/mutable.i
+	@echo ... src/const/mutable.s
 	@echo ... src/inheritance.obj
 	@echo ... src/inheritance.i
 	@echo ... src/inheritance.s
+	@echo ... src/new/Create_c++_objects.obj
+	@echo ... src/new/Create_c++_objects.i
+	@echo ... src/new/Create_c++_objects.s
+	@echo ... src/new/new.obj
+	@echo ... src/new/new.i
+	@echo ... src/new/new.s
+	@echo ... src/static/Static.obj
+	@echo ... src/static/Static.i
+	@echo ... src/static/Static.s
+	@echo ... src/static/Test.obj
+	@echo ... src/static/Test.i
+	@echo ... src/static/Test.s
+	@echo ... src/string/String_literals.obj
+	@echo ... src/string/String_literals.i
+	@echo ... src/string/String_literals.s
+	@echo ... src/string/string.obj
+	@echo ... src/string/string.i
+	@echo ... src/string/string.s
 .PHONY : help
 
 
