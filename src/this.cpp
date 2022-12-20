@@ -1,22 +1,21 @@
 #include <iostream>
 #include <string>
 
-void abc(const Entity& entity)
-{
-    
-}
+
 
 class Entity
 {
-private:
-    int x, y;
 public:
+    int x,y;
+public:
+    void Abc(const Entity& entity);
+
     Entity(int x, int y)
     {
-        this->x = x;
-        this->y = y;
+        // this->x = x;
+        // this->y = y;
         Entity& e = *this;
-        abc(e);
+        Abc(e);
     }
 
     int GetX() const
@@ -28,9 +27,15 @@ public:
 };
 
 
+
+void Abc(const Entity& entity)
+{
+    std::cout << entity.x << "," << entity.y << std::endl;
+}
+
 int main()
 {
-
+    Entity e(10,20);
     return 0;
 }
 
