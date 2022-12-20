@@ -39,11 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Cherno-C++::@6890427a1f51a3e7e1df",
-<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-f37a9a3d8c4f5ffd0d85.json
-					"jsonFile" : "target-Cherno-C++-Debug-2c95c5b03d93fd467ecb.json",
-=======
-					"jsonFile" : "target-Cherno-C++-Debug-eec5176b65f3d056e9c1.json",
->>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe:build/.cmake/api/v1/reply/codemodel-v2-59fd2c101ff4e3bbcaa2.json
+					"jsonFile" : "target-Cherno-C++-Debug-1fda369a631fb42f78c9.json",
 					"name" : "Cherno-C++",
 					"projectIndex" : 0
 				}
@@ -53,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/githubdown/Cherno-C-/build",
-		"source" : "E:/githubdown/Cherno-C-"
+		"build" : "G:/C++_TEst/Cherno-C++/build",
+		"source" : "G:/C++_TEst/Cherno-C++"
 	},
 	"version" : 
 	{

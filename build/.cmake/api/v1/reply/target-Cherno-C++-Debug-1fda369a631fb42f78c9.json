@@ -45,22 +45,18 @@
 			"compileCommandFragments" : 
 			[
 				{
-<<<<<<< HEAD:build/.cmake/api/v1/reply/target-Cherno-C++-Debug-2c95c5b03d93fd467ecb.json
-					"fragment" : "-O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview"
-=======
 					"fragment" : "-std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview"
->>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe:build/.cmake/api/v1/reply/target-Cherno-C++-Debug-eec5176b65f3d056e9c1.json
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "E:/githubdown/Cherno-C-/include"
+					"path" : "G:/C++_TEst/Cherno-C++/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/githubdown/Cherno-C-/lib"
+					"path" : "G:/C++_TEst/Cherno-C++/lib"
 				}
 			],
 			"language" : "CXX",
@@ -95,11 +91,7 @@
 		"commandFragments" : 
 		[
 			{
-<<<<<<< HEAD:build/.cmake/api/v1/reply/target-Cherno-C++-Debug-2c95c5b03d93fd467ecb.json
-				"fragment" : "-O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview",
-=======
 				"fragment" : "-std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview",
->>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe:build/.cmake/api/v1/reply/target-Cherno-C++-Debug-eec5176b65f3d056e9c1.json
 				"role" : "flags"
 			},
 			{

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/githubdown/Cherno-C-/build"
+			"value" : "g:/C++_TEst/Cherno-C++/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "D:/clang/bin/clang++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "D:/clang/bin/clang.exe"
 		},
 		{
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/githubdown/Cherno-C-/build/CMakeFiles/pkgRedirects"
+			"value" : "G:/C++_TEst/Cherno-C++/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/githubdown/Cherno-C-"
+			"value" : "G:/C++_TEst/Cherno-C++"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/githubdown/Cherno-C-/build"
+			"value" : "G:/C++_TEst/Cherno-C++/build"
 		},
 		{
 			"name" : "Cherno-C++_IS_TOP_LEVEL",
@@ -1291,11 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-<<<<<<< HEAD:build/.cmake/api/v1/reply/cache-v2-8167ccab2cd4b1ce2ca7.json
 			"value" : "G:/C++_TEst/Cherno-C++"
-=======
-			"value" : "E:/githubdown/Cherno-C-"
->>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe:build/.cmake/api/v1/reply/cache-v2-91bab3ea2ed3c32a544b.json
 		}
 	],
 	"kind" : "cache",

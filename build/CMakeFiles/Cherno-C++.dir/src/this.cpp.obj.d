@@ -1,9 +1,5 @@
 CMakeFiles/Cherno-C++.dir/src/this.cpp.obj: \
-<<<<<<< HEAD
   G:\C++_TEst\Cherno-C++\src\this.cpp \
-=======
-  E:\githubdown\Cherno-C-\src\this.cpp \
->>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
   E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\iostream \
   E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\istream \
   E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\ostream \
