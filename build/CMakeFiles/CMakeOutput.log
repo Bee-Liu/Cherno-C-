@@ -10,7 +10,11 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
+<<<<<<< HEAD
 The C compiler identification is Clang, found in "G:/C++_TEst/Cherno-C++/build/CMakeFiles/3.25.1/CompilerIdC/a.exe"
+=======
+The C compiler identification is Clang, found in "E:/githubdown/Cherno-C-/build/CMakeFiles/3.25.1/CompilerIdC/a.exe"
+>>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: D:/clang/bin/clang++.exe 
@@ -23,6 +27,7 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
+<<<<<<< HEAD
 The CXX compiler identification is Clang, found in "G:/C++_TEst/Cherno-C++/build/CMakeFiles/3.25.1/CompilerIdCXX/a.exe"
 
 Detecting C compiler ABI info compiled with the following output:
@@ -35,10 +40,25 @@ D:/clang/bin/clang.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcr
 Linking C executable cmTC_5db16.exe
 D:/clang/bin/clang.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_5db16.dir/objects1 -o cmTC_5db16.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_5db16.lib -Xlinker /pdb:G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-ofkd8b/cmTC_5db16.pdb -Xlinker /version:0.0  
 make.exe[1]: Leaving directory 'G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-ofkd8b'
+=======
+The CXX compiler identification is Clang, found in "E:/githubdown/Cherno-C-/build/CMakeFiles/3.25.1/CompilerIdCXX/a.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-138izy
+
+Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_f9763/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_f9763.dir/build.make CMakeFiles/cmTC_f9763.dir/build
+make.exe[1]: Entering directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-138izy'
+Building C object CMakeFiles/cmTC_f9763.dir/CMakeCCompilerABI.c.obj
+D:/clang/bin/clang.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -MD -MT CMakeFiles/cmTC_f9763.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_f9763.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_f9763.dir/CMakeCCompilerABI.c.obj -c E:/Cmake/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_f9763.exe
+D:/clang/bin/clang.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_f9763.dir/objects1 -o cmTC_f9763.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_f9763.lib -Xlinker /pdb:E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-138izy/cmTC_f9763.pdb -Xlinker /version:0.0  
+make.exe[1]: Leaving directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-138izy'
+>>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
+<<<<<<< HEAD
 Change Dir: G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-pz3gc2
 
 Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_c814c/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_c814c.dir/build.make CMakeFiles/cmTC_c814c.dir/build
@@ -48,12 +68,24 @@ D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msv
 Linking CXX executable cmTC_c814c.exe
 D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_c814c.dir/objects1 -o cmTC_c814c.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_c814c.lib -Xlinker /pdb:G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-pz3gc2/cmTC_c814c.pdb -Xlinker /version:0.0  
 make.exe[1]: Leaving directory 'G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-pz3gc2'
+=======
+Change Dir: E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-0z4rc1
+
+Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_355b6/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_355b6.dir/build.make CMakeFiles/cmTC_355b6.dir/build
+make.exe[1]: Entering directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-0z4rc1'
+Building CXX object CMakeFiles/cmTC_355b6.dir/CMakeCXXCompilerABI.cpp.obj
+D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -MD -MT CMakeFiles/cmTC_355b6.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles/cmTC_355b6.dir/CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_355b6.dir/CMakeCXXCompilerABI.cpp.obj -c E:/Cmake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_355b6.exe
+D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_355b6.dir/objects1 -o cmTC_355b6.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_355b6.lib -Xlinker /pdb:E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-0z4rc1/cmTC_355b6.pdb -Xlinker /version:0.0  
+make.exe[1]: Leaving directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-0z4rc1'
+>>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
 
 
 
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
+<<<<<<< HEAD
 Change Dir: G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-juq1ep
 
 Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_fb6f6/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_fb6f6.dir/build.make CMakeFiles/cmTC_fb6f6.dir/build
@@ -63,6 +95,17 @@ D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msv
 Linking CXX executable cmTC_fb6f6.exe
 D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_fb6f6.dir/objects1 -o cmTC_fb6f6.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_fb6f6.lib -Xlinker /pdb:G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-juq1ep/cmTC_fb6f6.pdb -Xlinker /version:0.0  @CMakeFiles/cmTC_fb6f6.dir/linkLibs.rsp 
 make.exe[1]: Leaving directory 'G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-juq1ep'
+=======
+Change Dir: E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-z7839v
+
+Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_27e4a/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_27e4a.dir/build.make CMakeFiles/cmTC_27e4a.dir/build
+make.exe[1]: Entering directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-z7839v'
+Building CXX object CMakeFiles/cmTC_27e4a.dir/feature_tests.cxx.obj
+D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview   -std=c++14 -MD -MT CMakeFiles/cmTC_27e4a.dir/feature_tests.cxx.obj -MF CMakeFiles/cmTC_27e4a.dir/feature_tests.cxx.obj.d -o CMakeFiles/cmTC_27e4a.dir/feature_tests.cxx.obj -c E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-z7839v/feature_tests.cxx
+Linking CXX executable cmTC_27e4a.exe
+D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_27e4a.dir/objects1 -o cmTC_27e4a.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_27e4a.lib -Xlinker /pdb:E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-z7839v/cmTC_27e4a.pdb -Xlinker /version:0.0  @CMakeFiles/cmTC_27e4a.dir/linkLibs.rsp 
+make.exe[1]: Leaving directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-z7839v'
+>>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
 
 
 
@@ -125,6 +168,7 @@ make.exe[1]: Leaving directory 'G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScr
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
+<<<<<<< HEAD
 Change Dir: G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-vbw4kq
 
 Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_e9bde/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_e9bde.dir/build.make CMakeFiles/cmTC_e9bde.dir/build
@@ -134,6 +178,17 @@ D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msv
 Linking CXX executable cmTC_e9bde.exe
 D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_e9bde.dir/objects1 -o cmTC_e9bde.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_e9bde.lib -Xlinker /pdb:G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-vbw4kq/cmTC_e9bde.pdb -Xlinker /version:0.0  @CMakeFiles/cmTC_e9bde.dir/linkLibs.rsp 
 make.exe[1]: Leaving directory 'G:/C++_TEst/Cherno-C++/build/CMakeFiles/CMakeScratch/TryCompile-vbw4kq'
+=======
+Change Dir: E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-gokzur
+
+Run Build Command(s):F:/Software/Tools/mingw64/bin/make.exe -f Makefile cmTC_e5a3e/fast && F:/Software/Tools/mingw64/bin/make.exe  -f CMakeFiles/cmTC_e5a3e.dir/build.make CMakeFiles/cmTC_e5a3e.dir/build
+make.exe[1]: Entering directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-gokzur'
+Building CXX object CMakeFiles/cmTC_e5a3e.dir/feature_tests.cxx.obj
+D:/clang/bin/clang++.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview   -std=c++14 -MD -MT CMakeFiles/cmTC_e5a3e.dir/feature_tests.cxx.obj -MF CMakeFiles/cmTC_e5a3e.dir/feature_tests.cxx.obj.d -o CMakeFiles/cmTC_e5a3e.dir/feature_tests.cxx.obj -c E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-gokzur/feature_tests.cxx
+Linking CXX executable cmTC_e5a3e.exe
+D:/clang/bin/clang++.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console @CMakeFiles/cmTC_e5a3e.dir/objects1 -o cmTC_e5a3e.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_e5a3e.lib -Xlinker /pdb:E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-gokzur/cmTC_e5a3e.pdb -Xlinker /version:0.0  @CMakeFiles/cmTC_e5a3e.dir/linkLibs.rsp 
+make.exe[1]: Leaving directory 'E:/githubdown/Cherno-C-/build/CMakeFiles/CMakeScratch/TryCompile-gokzur'
+>>>>>>> 087ae81d056a766669d052c24b8bc24fc4bfbdbe
 
 
 

@@ -1,4 +1,4 @@
-# Install script for directory: G:/C++_TEst/Cherno-C++
+# Install script for directory: E:/githubdown/Cherno-C-
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/C++_TEst/Cherno-C++/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/githubdown/Cherno-C-/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

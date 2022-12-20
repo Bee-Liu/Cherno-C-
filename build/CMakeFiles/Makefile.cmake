@@ -25,7 +25,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "E:/Cmake/share/cmake-3.25/Modules/Platform/Windows-Clang.cmake"
   "E:/Cmake/share/cmake-3.25/Modules/Platform/Windows.cmake"
   "E:/Cmake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake"
-  "G:/C++_TEst/Cherno-C++/CMakeLists.txt"
+  "E:/githubdown/Cherno-C-/CMakeLists.txt"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeRCCompiler.cmake"
