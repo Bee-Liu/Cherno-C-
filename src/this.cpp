@@ -1,41 +1,40 @@
-#include <iostream>
-#include <string>
-
-void abc(const Entity& entity)
-{
-    
-}
-
-class Entity
-{
-private:
-    int x, y;
-public:
-    Entity(int x, int y)
-    {
-        this->x = x;
-        this->y = y;
-        Entity& e = *this;
-        abc(e);
-    }
-
-    int GetX() const
-    {
-        const Entity* e = this;
-
-        return x;
-    }
-};
+// #include <iostream>
+// #include <string>
 
 
-int main()
-{
 
-    return 0;
-}
+// class Entity
+// {
+// public:
+//     int x,y;
+// public:
+
+//     Entity(int x, int y)
+//     {
+//         this->x = x;
+//         this->y = y;
+//         std::cout<<this->x<<" "<<this->y<<std::endl;
+//     }
+
+//     int GetX() const
+//     {
+//         const Entity* e = this;
+
+//         return x;
+//     }
+// };
 
 
-void PrintEntity(const Entity& e)
-{
-    //printf  
-}
+// void PrintEntity(const Entity& e)
+// {
+//     //printf  
+//     std::cout <<e.x<<" "<<e.y<<std::endl;
+// }
+
+// int main()
+// {
+//     Entity e(10,20);
+//     PrintEntity(e);
+//     return 0;
+// }
+

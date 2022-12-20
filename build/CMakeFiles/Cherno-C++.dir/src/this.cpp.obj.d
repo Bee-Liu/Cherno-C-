@@ -1,127 +1,103 @@
 CMakeFiles/Cherno-C++.dir/src/this.cpp.obj: \
- G:\C++_TEst\Cherno-C++\src\this.cpp \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/iostream \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/pstl/pstl_config.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ostream \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ios \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/iosfwd \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stringfwd.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/memoryfwd.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/postypes.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cwchar \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/wchar.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/corecrt.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/_mingw.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/vadefs.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/exception \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/exception.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/exception_ptr.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/exception_defines.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/cxxabi_init_exception.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stddef.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/stddef.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/typeinfo \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/hash_bytes.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/new \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/move.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/type_traits \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/nested_exception.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/char_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdint \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/stdint.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/localefwd.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/clocale \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/locale.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/stdio.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cctype \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/ctype.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/ios_base.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/atomicity.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/errno.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/locale_classes.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/string \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/allocator.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/new_allocator.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/functexcept.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/cpp_type_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/ostream_insert.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/cxxabi_forced.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_iterator_base_types.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_iterator_base_funcs.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/concept_check.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/debug/assertions.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_iterator.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/type_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/ptr_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_function.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward/binders.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/numeric_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_algobase.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_pair.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/utility.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/debug/debug.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/predefined_ops.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/refwrap.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/invoke.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/range_access.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/initializer_list \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/basic_string.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/alloc_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/alloc_traits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/stl_construct.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/string_view \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/functional_hash.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/string_view.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/ext/string_conversions.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdlib \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/stdlib.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed/limits.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed/syslimits.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/limits.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/stdlib.h \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/malloc.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/std_abs.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cstdio \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cerrno \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/charconv.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/basic_string.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/locale_classes.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/system_error \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/stdexcept \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/streambuf \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/streambuf.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/basic_ios.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/locale_facets.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/cwctype \
- D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include/wctype.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/streambuf_iterator.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/locale_facets.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/basic_ios.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/ostream.tcc \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/istream \
- D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/bits/istream.tcc
+  G:\C++_TEst\Cherno-C++\src\this.cpp \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\iostream \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\istream \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\ostream \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\ios \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xlocnum \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\climits \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\yvals.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\yvals_core.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\crtdefs.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\sal.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h \
+  D:\clang\lib\clang\15.0.6\include\vadefs.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vadefs.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\use_ansi.h \
+  D:\clang\lib\clang\15.0.6\include\limits.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\limits.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cmath \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cstdlib \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\stdlib.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h \
+  D:\clang\lib\clang\15.0.6\include\stddef.h \
+  D:\clang\lib\clang\15.0.6\include\__stddef_max_align_t.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\math.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xtgmath.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xtr1common \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cstdio \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\stdio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\streambuf \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xiosbase \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xlocale \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cstring \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\string.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\errno.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\stdexcept \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\exception \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\type_traits \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xstddef \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cstddef \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\initializer_list \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\malloc.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\eh.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xstring \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xmemory0 \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cstdint \
+  D:\clang\lib\clang\15.0.6\include\stdint.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\stdint.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\limits \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\ymath.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cfloat \
+  D:\clang\lib\clang\15.0.6\include\float.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\float.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cwchar \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\wchar.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\sys\types.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\new \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xutility \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\utility \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\iosfwd \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xatomic0.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\intrin0.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\typeinfo \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xlocinfo \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\ctype.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\locale.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\memory \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xmemory \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xfacet \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\system_error \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\cerrno \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xcall_once.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xerrc.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.17763.0\ucrt\share.h \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\string \
+  E:\vs2017\新建文件夹\VC\Tools\MSVC\14.16.27023\include\xstring_insert.h

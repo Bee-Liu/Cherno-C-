@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/addr2line.exe"
+			"value" : "E:/visual/mingw64/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/ar.exe"
+			"value" : "D:/clang/bin/llvm-ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -155,11 +155,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "D:/mingw/wgcore/mingw64/bin/g++.exe"
+			"type" : "FILEPATH",
+			"value" : "D:/clang/bin/clang++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -171,11 +171,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+					"value" : "LLVM archiver"
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/gcc-ar.exe"
+			"value" : "D:/clang/bin/llvm-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -187,11 +187,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+					"value" : "Generate index for LLVM archive"
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/gcc-ranlib.exe"
+			"value" : "D:/clang/bin/llvm-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -223,7 +223,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-g"
+			"value" : "-O0"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
@@ -271,7 +271,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-O2 -g -DNDEBUG"
+			"value" : "-O2 -DNDEBUG"
 		},
 		{
 			"name" : "CMAKE_CXX_STANDARD_LIBRARIES",
@@ -287,7 +287,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32"
+			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER",
@@ -299,11 +299,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "D:/mingw/wgcore/mingw64/bin/gcc.exe"
+			"type" : "FILEPATH",
+			"value" : "D:/clang/bin/clang.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -315,11 +315,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+					"value" : "LLVM archiver"
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/gcc-ar.exe"
+			"value" : "D:/clang/bin/llvm-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -331,11 +331,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+					"value" : "Generate index for LLVM archive"
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/gcc-ranlib.exe"
+			"value" : "D:/clang/bin/llvm-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -367,7 +367,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-g"
+			"value" : "-O0"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS_MINSIZEREL",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-O2 -g -DNDEBUG"
+			"value" : "-O2 -DNDEBUG"
 		},
 		{
 			"name" : "CMAKE_C_STANDARD_LIBRARIES",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32"
+			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames"
 		},
 		{
 			"name" : "CMAKE_DLLTOOL",
@@ -447,7 +447,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/dlltool.exe"
+			"value" : "E:/visual/mingw64/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EDIT_COMMAND",
@@ -599,7 +599,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "MinGW Makefiles"
+			"value" : "Unix Makefiles"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -636,18 +636,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : ""
-		},
-		{
-			"name" : "CMAKE_GNUtoMS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Convert GNU import libraries to MS format (requires Visual Studio)"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_HOME_DIRECTORY",
@@ -687,7 +675,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/ld.exe"
+			"value" : "D:/clang/bin/lld-link.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -703,7 +691,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/visual/mingw64/bin/mingw32-make.exe"
+			"value" : "F:/Software/Tools/mingw64/bin/make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -799,7 +787,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/nm.exe"
+			"value" : "D:/clang/bin/llvm-nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -827,7 +815,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/objcopy.exe"
+			"value" : "D:/clang/bin/llvm-objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -843,7 +831,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/objdump.exe"
+			"value" : "D:/clang/bin/llvm-objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -907,7 +895,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/ranlib.exe"
+			"value" : "D:/clang/bin/llvm-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -923,7 +911,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/visual/mingw64/bin/windres.exe"
+			"value" : "D:/clang/bin/llvm-rc.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1031,7 +1019,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/readelf.exe"
+			"value" : "E:/visual/mingw64/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1251,7 +1239,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/mingw/wgcore/mingw64/bin/strip.exe"
+			"value" : "D:/clang/bin/llvm-strip.exe"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1304,18 +1292,6 @@
 			],
 			"type" : "STATIC",
 			"value" : "G:/C++_TEst/Cherno-C++"
-		},
-		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

@@ -41,8 +41,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/this.cpp.obj.d"
   "Cherno-C++.exe"
   "Cherno-C++.exe.manifest"
+  "Cherno-C++.lib"
   "Cherno-C++.pdb"
-  "libCherno-C++.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
