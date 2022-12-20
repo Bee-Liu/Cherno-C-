@@ -1,10 +1,47 @@
-#include <iostream>
-#include <string>
+// //Notes:this关键字
 
-using String = std::string;
+// #include <iostream>
+// #include <string>
 
-int main()
-{
+
+// using String = std::string;
+
+
+// void abc(const Entity& entity)
+// {
     
-    return 0;
-}
+// }
+
+// class Entity
+// {
+// private:
+//     int x, y;
+// public:
+//     Entity(int x, int y)
+//     {
+//         this->x = x;
+//         this->y = y;
+//         Entity& e = *this;
+//         abc(e);
+//     }
+
+//     int GetX() const
+//     {
+//         const Entity* e = this;
+
+//         return x;
+//     }
+// };
+
+
+// int main()
+// {
+
+//     return 0;
+// }
+
+
+// void PrintEntity(const Entity& e)
+// {
+//     //printf  
+// }
