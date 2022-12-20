@@ -10,16 +10,16 @@
 				{
 					"includeDirectories" : 
 					[
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-						"E:/visual/mingw64/x86_64-w64-mingw32/include"
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include",
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed",
+						"D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : 
 					[
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0",
-						"E:/visual/mingw64/lib/gcc",
-						"E:/visual/mingw64/x86_64-w64-mingw32/lib",
-						"E:/visual/mingw64/lib"
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0",
+						"D:/mingw/wgcore/mingw64/lib/gcc",
+						"D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/lib",
+						"D:/mingw/wgcore/mingw64/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -28,7 +28,7 @@
 						"gcc",
 						"moldname",
 						"mingwex",
-						"pthread",
+						"kernel32",
 						"advapi32",
 						"shell32",
 						"user32",
@@ -37,11 +37,12 @@
 						"mingw32",
 						"gcc",
 						"moldname",
-						"mingwex"
+						"mingwex",
+						"kernel32"
 					]
 				},
-				"path" : "E:/visual/mingw64/bin/gcc.exe",
-				"version" : "8.1.0"
+				"path" : "D:/mingw/wgcore/mingw64/bin/gcc.exe",
+				"version" : "12.2.0"
 			},
 			"language" : "C",
 			"sourceFileExtensions" : 
@@ -58,19 +59,19 @@
 				{
 					"includeDirectories" : 
 					[
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-						"E:/visual/mingw64/x86_64-w64-mingw32/include"
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++",
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32",
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward",
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include",
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed",
+						"D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : 
 					[
-						"E:/visual/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0",
-						"E:/visual/mingw64/lib/gcc",
-						"E:/visual/mingw64/x86_64-w64-mingw32/lib",
-						"E:/visual/mingw64/lib"
+						"D:/mingw/wgcore/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0",
+						"D:/mingw/wgcore/mingw64/lib/gcc",
+						"D:/mingw/wgcore/mingw64/x86_64-w64-mingw32/lib",
+						"D:/mingw/wgcore/mingw64/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -81,7 +82,7 @@
 						"gcc",
 						"moldname",
 						"mingwex",
-						"pthread",
+						"kernel32",
 						"advapi32",
 						"shell32",
 						"user32",
@@ -91,11 +92,12 @@
 						"gcc_s",
 						"gcc",
 						"moldname",
-						"mingwex"
+						"mingwex",
+						"kernel32"
 					]
 				},
-				"path" : "E:/visual/mingw64/bin/g++.exe",
-				"version" : "8.1.0"
+				"path" : "D:/mingw/wgcore/mingw64/bin/g++.exe",
+				"version" : "12.2.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 
