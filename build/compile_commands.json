@@ -26,6 +26,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Operator_and_overloads.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Operator and overloads.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Operator and overloads.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\Pure_virtual_function.cpp.obj -c \"G:\\C++_TEst\\Cherno-C++\\src\\Pure virtual function.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp"
 },
@@ -88,5 +93,10 @@
   "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\string\\string.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\string\\string.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/string/string.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "E:\\visual\\mingw64\\bin\\g++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -g -o CMakeFiles\\Cherno-C++.dir\\src\\this.cpp.obj -c G:\\C++_TEst\\Cherno-C++\\src\\this.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/this.cpp"
 }
 ]

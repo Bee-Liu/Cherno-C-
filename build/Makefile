@@ -248,6 +248,30 @@ src/Member_initializer_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.s
 .PHONY : src/Member_initializer_list.cpp.s
 
+src/Operator_and_overloads.obj: src/Operator_and_overloads.cpp.obj
+.PHONY : src/Operator_and_overloads.obj
+
+# target to build an object file
+src/Operator_and_overloads.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj
+.PHONY : src/Operator_and_overloads.cpp.obj
+
+src/Operator_and_overloads.i: src/Operator_and_overloads.cpp.i
+.PHONY : src/Operator_and_overloads.i
+
+# target to preprocess a source file
+src/Operator_and_overloads.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.i
+.PHONY : src/Operator_and_overloads.cpp.i
+
+src/Operator_and_overloads.s: src/Operator_and_overloads.cpp.s
+.PHONY : src/Operator_and_overloads.s
+
+# target to generate assembly for a file
+src/Operator_and_overloads.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.s
+.PHONY : src/Operator_and_overloads.cpp.s
+
 src/Pure_virtual_function.obj: src/Pure_virtual_function.cpp.obj
 .PHONY : src/Pure_virtual_function.obj
 
@@ -560,6 +584,30 @@ src/string/string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/string/string.cpp.s
 .PHONY : src/string/string.cpp.s
 
+src/this.obj: src/this.cpp.obj
+.PHONY : src/this.obj
+
+# target to build an object file
+src/this.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.obj
+.PHONY : src/this.cpp.obj
+
+src/this.i: src/this.cpp.i
+.PHONY : src/this.i
+
+# target to preprocess a source file
+src/this.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.i
+.PHONY : src/this.cpp.i
+
+src/this.s: src/this.cpp.s
+.PHONY : src/this.s
+
+# target to generate assembly for a file
+src/this.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cherno-C++.dir\build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.s
+.PHONY : src/this.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -584,6 +632,9 @@ help:
 	@echo ... src/Member_initializer_list.obj
 	@echo ... src/Member_initializer_list.i
 	@echo ... src/Member_initializer_list.s
+	@echo ... src/Operator_and_overloads.obj
+	@echo ... src/Operator_and_overloads.i
+	@echo ... src/Operator_and_overloads.s
 	@echo ... src/Pure_virtual_function.obj
 	@echo ... src/Pure_virtual_function.i
 	@echo ... src/Pure_virtual_function.s
@@ -623,6 +674,9 @@ help:
 	@echo ... src/string/string.obj
 	@echo ... src/string/string.i
 	@echo ... src/string/string.s
+	@echo ... src/this.obj
+	@echo ... src/this.i
+	@echo ... src/this.s
 .PHONY : help
 
 
