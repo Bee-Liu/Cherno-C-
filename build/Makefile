@@ -249,6 +249,30 @@ src/Member_initializer_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.s
 .PHONY : src/Member_initializer_list.cpp.s
 
+src/Object_lifetime.obj: src/Object_lifetime.cpp.obj
+.PHONY : src/Object_lifetime.obj
+
+# target to build an object file
+src/Object_lifetime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj
+.PHONY : src/Object_lifetime.cpp.obj
+
+src/Object_lifetime.i: src/Object_lifetime.cpp.i
+.PHONY : src/Object_lifetime.i
+
+# target to preprocess a source file
+src/Object_lifetime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.i
+.PHONY : src/Object_lifetime.cpp.i
+
+src/Object_lifetime.s: src/Object_lifetime.cpp.s
+.PHONY : src/Object_lifetime.s
+
+# target to generate assembly for a file
+src/Object_lifetime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.s
+.PHONY : src/Object_lifetime.cpp.s
+
 src/Operator_and_overloads.obj: src/Operator_and_overloads.cpp.obj
 .PHONY : src/Operator_and_overloads.obj
 
@@ -633,6 +657,9 @@ help:
 	@echo "... src/Member_initializer_list.obj"
 	@echo "... src/Member_initializer_list.i"
 	@echo "... src/Member_initializer_list.s"
+	@echo "... src/Object_lifetime.obj"
+	@echo "... src/Object_lifetime.i"
+	@echo "... src/Object_lifetime.s"
 	@echo "... src/Operator_and_overloads.obj"
 	@echo "... src/Operator_and_overloads.i"
 	@echo "... src/Operator_and_overloads.s"

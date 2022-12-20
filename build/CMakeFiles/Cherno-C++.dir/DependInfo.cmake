@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/Implicit and explicit.cpp" "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Log.cpp" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Member initializer list.cpp" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Object lifetime.cpp" "CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Operator and overloads.cpp" "CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Pure virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Ternary operator.cpp" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj.d"

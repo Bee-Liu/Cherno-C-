@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj"
