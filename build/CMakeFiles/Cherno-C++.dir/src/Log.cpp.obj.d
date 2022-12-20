@@ -1,2 +1,2 @@
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj: \
- G:\C++_TEst\Cherno-C++\src\Log.cpp
+  E:\githubdown\Cherno-C-\src\Log.cpp

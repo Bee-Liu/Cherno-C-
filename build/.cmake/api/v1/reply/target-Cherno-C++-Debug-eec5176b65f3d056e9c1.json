@@ -45,18 +45,18 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "G:/C++_TEst/Cherno-C++/include"
+					"path" : "E:/githubdown/Cherno-C-/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "G:/C++_TEst/Cherno-C++/lib"
+					"path" : "E:/githubdown/Cherno-C-/lib"
 				}
 			],
 			"language" : "CXX",
@@ -91,15 +91,15 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-Xlinker /subsystem:console",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames",
 				"role" : "libraries"
 			}
 		],
