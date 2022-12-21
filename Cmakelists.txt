@@ -8,7 +8,7 @@ project(Cherno-C++)
 # aux_source_directory(src/const CONST)
 set(CMAKE_CXX_FLAGS "-std=c++14")
 
-file(GLOB SRC_FILES src/*.cpp src/string/*.cpp src/static/*.cpp src/const/*.cpp src/new/*.cpp src/ptr/*.cpp)
+file(GLOB SRC_FILES src/*.cpp src/string/*.cpp src/static/*.cpp src/const/*.cpp src/new/*.cpp src/ptr/*.cpp src/Operator/*.cpp src/function/*.cpp)
 
 include_directories(include lib)
 

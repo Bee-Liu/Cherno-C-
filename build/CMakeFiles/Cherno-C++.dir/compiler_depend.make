@@ -3,23 +3,9 @@
 
 CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj: G:/C++_TEst/Cherno-C++/src/C++Array.cpp
 
-CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Constructor\ function.cpp
-
 CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj: G:/C++_TEst/Cherno-C++/src/Implicit\ and\ explicit.cpp
 
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj: G:/C++_TEst/Cherno-C++/src/Log.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj: G:/C++_TEst/Cherno-C++/src/Member\ initializer\ list.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator\ and\ overloads.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj: G:/C++_TEst/Cherno-C++/src/Ternary\ operator.cpp
-
-CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp
 
 CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
 
@@ -147,13 +133,7 @@ CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: G:/C++_TEst/Cherno
 CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: G:/C++_TEst/Cherno-C++/src/string/string.cpp
 
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream:
-
-G:/C++_TEst/Cherno-C++/src/Operator\ and\ overloads.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/stdint.h:
-
-G:/C++_TEst/Cherno-C++/src/Member\ initializer\ list.cpp:
+G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
 
 D:/clang/lib/clang/15.0.6/include/__stddef_max_align_t.h:
 
@@ -161,41 +141,21 @@ E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/cstring:
 
 G:/C++_TEst/Cherno-C++/src/C++Array.cpp:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/cstdio:
+G:/C++_TEst/Cherno-C++/src/new/Create\ c++\ objects.cpp:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_new_debug.h:
+G:/C++_TEst/Cherno-C++/src/inheritance.cpp:
 
-G:/C++_TEst/Cherno-C++/src/Constructor\ function.cpp:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xlocale:
+
+G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdio.h:
-
-G:/C++_TEst/Cherno-C++/src/The\ destructor\ function.cpp:
 
 G:/C++_TEst/Cherno-C++/src/Implicit\ and\ explicit.cpp:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xiosbase:
 
 G:/C++_TEst/Cherno-C++/src/Log.cpp:
-
-G:/C++_TEst/Cherno-C++/src/Pure\ virtual\ function.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/crtdefs.h:
-
-G:/C++_TEst/Cherno-C++/src/Ternary\ operator.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtgmath.h:
-
-G:/C++_TEst/Cherno-C++/src/Virtual\ function.cpp:
-
-G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
-
-G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
-
-G:/C++_TEst/Cherno-C++/src/inheritance.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xlocale:
-
-G:/C++_TEst/Cherno-C++/src/new/Create\ c++\ objects.cpp:
 
 G:/C++_TEst/Cherno-C++/src/new/new.cpp:
 
@@ -212,6 +172,8 @@ E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/cmath:
 G:/C++_TEst/Cherno-C++/src/ptr/this.cpp:
 
 G:/C++_TEst/Cherno-C++/src/ptr/smart_ptr.cpp:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/istream:
 
@@ -243,6 +205,8 @@ E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/yvals.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xkeycheck.h:
 
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/crtdefs.h:
+
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/sal.h:
@@ -256,6 +220,10 @@ C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_memc
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt.h:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/crtdbg.h:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/cstdio:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_new_debug.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_new.h:
 
@@ -279,29 +247,31 @@ C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/string.h:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_math.h:
 
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtgmath.h:
+
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtr1common:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_typeinfo.h:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstddef:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_stdio_config.h:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_memory.h:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/exception:
-
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/errno.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_string.h:
 
-C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstring.h:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/stdexcept:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/exception:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/intrin0.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/type_traits:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_typeinfo.h:
+C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstring.h:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstddef:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/stdexcept:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wio.h:
 
@@ -320,6 +290,8 @@ C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_term
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xmemory0:
 
 D:/clang/lib/clang/15.0.6/include/stdint.h:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/stdint.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/limits:
 

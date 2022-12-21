@@ -153,30 +153,6 @@ src/C++Array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.s
 .PHONY : src/C++Array.cpp.s
 
-src/Constructor_function.obj: src/Constructor_function.cpp.obj
-.PHONY : src/Constructor_function.obj
-
-# target to build an object file
-src/Constructor_function.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.obj
-.PHONY : src/Constructor_function.cpp.obj
-
-src/Constructor_function.i: src/Constructor_function.cpp.i
-.PHONY : src/Constructor_function.i
-
-# target to preprocess a source file
-src/Constructor_function.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.i
-.PHONY : src/Constructor_function.cpp.i
-
-src/Constructor_function.s: src/Constructor_function.cpp.s
-.PHONY : src/Constructor_function.s
-
-# target to generate assembly for a file
-src/Constructor_function.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Constructor_function.cpp.s
-.PHONY : src/Constructor_function.cpp.s
-
 src/Implicit_and_explicit.obj: src/Implicit_and_explicit.cpp.obj
 .PHONY : src/Implicit_and_explicit.obj
 
@@ -225,149 +201,53 @@ src/Log.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Log.cpp.s
 .PHONY : src/Log.cpp.s
 
-src/Member_initializer_list.obj: src/Member_initializer_list.cpp.obj
-.PHONY : src/Member_initializer_list.obj
+src/Operator/Operator_and_overloads.obj: src/Operator/Operator_and_overloads.cpp.obj
+.PHONY : src/Operator/Operator_and_overloads.obj
 
 # target to build an object file
-src/Member_initializer_list.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.obj
-.PHONY : src/Member_initializer_list.cpp.obj
+src/Operator/Operator_and_overloads.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj
+.PHONY : src/Operator/Operator_and_overloads.cpp.obj
 
-src/Member_initializer_list.i: src/Member_initializer_list.cpp.i
-.PHONY : src/Member_initializer_list.i
+src/Operator/Operator_and_overloads.i: src/Operator/Operator_and_overloads.cpp.i
+.PHONY : src/Operator/Operator_and_overloads.i
 
 # target to preprocess a source file
-src/Member_initializer_list.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.i
-.PHONY : src/Member_initializer_list.cpp.i
+src/Operator/Operator_and_overloads.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.i
+.PHONY : src/Operator/Operator_and_overloads.cpp.i
 
-src/Member_initializer_list.s: src/Member_initializer_list.cpp.s
-.PHONY : src/Member_initializer_list.s
+src/Operator/Operator_and_overloads.s: src/Operator/Operator_and_overloads.cpp.s
+.PHONY : src/Operator/Operator_and_overloads.s
 
 # target to generate assembly for a file
-src/Member_initializer_list.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.s
-.PHONY : src/Member_initializer_list.cpp.s
+src/Operator/Operator_and_overloads.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.s
+.PHONY : src/Operator/Operator_and_overloads.cpp.s
 
-src/Operator_and_overloads.obj: src/Operator_and_overloads.cpp.obj
-.PHONY : src/Operator_and_overloads.obj
+src/Operator/Ternary_operator.obj: src/Operator/Ternary_operator.cpp.obj
+.PHONY : src/Operator/Ternary_operator.obj
 
 # target to build an object file
-src/Operator_and_overloads.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.obj
-.PHONY : src/Operator_and_overloads.cpp.obj
+src/Operator/Ternary_operator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj
+.PHONY : src/Operator/Ternary_operator.cpp.obj
 
-src/Operator_and_overloads.i: src/Operator_and_overloads.cpp.i
-.PHONY : src/Operator_and_overloads.i
-
-# target to preprocess a source file
-src/Operator_and_overloads.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.i
-.PHONY : src/Operator_and_overloads.cpp.i
-
-src/Operator_and_overloads.s: src/Operator_and_overloads.cpp.s
-.PHONY : src/Operator_and_overloads.s
-
-# target to generate assembly for a file
-src/Operator_and_overloads.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator_and_overloads.cpp.s
-.PHONY : src/Operator_and_overloads.cpp.s
-
-src/Pure_virtual_function.obj: src/Pure_virtual_function.cpp.obj
-.PHONY : src/Pure_virtual_function.obj
-
-# target to build an object file
-src/Pure_virtual_function.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.obj
-.PHONY : src/Pure_virtual_function.cpp.obj
-
-src/Pure_virtual_function.i: src/Pure_virtual_function.cpp.i
-.PHONY : src/Pure_virtual_function.i
+src/Operator/Ternary_operator.i: src/Operator/Ternary_operator.cpp.i
+.PHONY : src/Operator/Ternary_operator.i
 
 # target to preprocess a source file
-src/Pure_virtual_function.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.i
-.PHONY : src/Pure_virtual_function.cpp.i
+src/Operator/Ternary_operator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.i
+.PHONY : src/Operator/Ternary_operator.cpp.i
 
-src/Pure_virtual_function.s: src/Pure_virtual_function.cpp.s
-.PHONY : src/Pure_virtual_function.s
-
-# target to generate assembly for a file
-src/Pure_virtual_function.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Pure_virtual_function.cpp.s
-.PHONY : src/Pure_virtual_function.cpp.s
-
-src/Ternary_operator.obj: src/Ternary_operator.cpp.obj
-.PHONY : src/Ternary_operator.obj
-
-# target to build an object file
-src/Ternary_operator.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.obj
-.PHONY : src/Ternary_operator.cpp.obj
-
-src/Ternary_operator.i: src/Ternary_operator.cpp.i
-.PHONY : src/Ternary_operator.i
-
-# target to preprocess a source file
-src/Ternary_operator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.i
-.PHONY : src/Ternary_operator.cpp.i
-
-src/Ternary_operator.s: src/Ternary_operator.cpp.s
-.PHONY : src/Ternary_operator.s
+src/Operator/Ternary_operator.s: src/Operator/Ternary_operator.cpp.s
+.PHONY : src/Operator/Ternary_operator.s
 
 # target to generate assembly for a file
-src/Ternary_operator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Ternary_operator.cpp.s
-.PHONY : src/Ternary_operator.cpp.s
-
-src/The_destructor_function.obj: src/The_destructor_function.cpp.obj
-.PHONY : src/The_destructor_function.obj
-
-# target to build an object file
-src/The_destructor_function.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.obj
-.PHONY : src/The_destructor_function.cpp.obj
-
-src/The_destructor_function.i: src/The_destructor_function.cpp.i
-.PHONY : src/The_destructor_function.i
-
-# target to preprocess a source file
-src/The_destructor_function.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.i
-.PHONY : src/The_destructor_function.cpp.i
-
-src/The_destructor_function.s: src/The_destructor_function.cpp.s
-.PHONY : src/The_destructor_function.s
-
-# target to generate assembly for a file
-src/The_destructor_function.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_destructor_function.cpp.s
-.PHONY : src/The_destructor_function.cpp.s
-
-src/Virtual_function.obj: src/Virtual_function.cpp.obj
-.PHONY : src/Virtual_function.obj
-
-# target to build an object file
-src/Virtual_function.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.obj
-.PHONY : src/Virtual_function.cpp.obj
-
-src/Virtual_function.i: src/Virtual_function.cpp.i
-.PHONY : src/Virtual_function.i
-
-# target to preprocess a source file
-src/Virtual_function.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.i
-.PHONY : src/Virtual_function.cpp.i
-
-src/Virtual_function.s: src/Virtual_function.cpp.s
-.PHONY : src/Virtual_function.s
-
-# target to generate assembly for a file
-src/Virtual_function.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Virtual_function.cpp.s
-.PHONY : src/Virtual_function.cpp.s
+src/Operator/Ternary_operator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.s
+.PHONY : src/Operator/Ternary_operator.cpp.s
 
 src/const/C++const.obj: src/const/C++const.cpp.obj
 .PHONY : src/const/C++const.obj
@@ -416,6 +296,126 @@ src/const/mutable.s: src/const/mutable.cpp.s
 src/const/mutable.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.s
 .PHONY : src/const/mutable.cpp.s
+
+src/function/Constructor_function.obj: src/function/Constructor_function.cpp.obj
+.PHONY : src/function/Constructor_function.obj
+
+# target to build an object file
+src/function/Constructor_function.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj
+.PHONY : src/function/Constructor_function.cpp.obj
+
+src/function/Constructor_function.i: src/function/Constructor_function.cpp.i
+.PHONY : src/function/Constructor_function.i
+
+# target to preprocess a source file
+src/function/Constructor_function.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.i
+.PHONY : src/function/Constructor_function.cpp.i
+
+src/function/Constructor_function.s: src/function/Constructor_function.cpp.s
+.PHONY : src/function/Constructor_function.s
+
+# target to generate assembly for a file
+src/function/Constructor_function.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.s
+.PHONY : src/function/Constructor_function.cpp.s
+
+src/function/Member_initializer_list.obj: src/function/Member_initializer_list.cpp.obj
+.PHONY : src/function/Member_initializer_list.obj
+
+# target to build an object file
+src/function/Member_initializer_list.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj
+.PHONY : src/function/Member_initializer_list.cpp.obj
+
+src/function/Member_initializer_list.i: src/function/Member_initializer_list.cpp.i
+.PHONY : src/function/Member_initializer_list.i
+
+# target to preprocess a source file
+src/function/Member_initializer_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.i
+.PHONY : src/function/Member_initializer_list.cpp.i
+
+src/function/Member_initializer_list.s: src/function/Member_initializer_list.cpp.s
+.PHONY : src/function/Member_initializer_list.s
+
+# target to generate assembly for a file
+src/function/Member_initializer_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.s
+.PHONY : src/function/Member_initializer_list.cpp.s
+
+src/function/Pure_virtual_function.obj: src/function/Pure_virtual_function.cpp.obj
+.PHONY : src/function/Pure_virtual_function.obj
+
+# target to build an object file
+src/function/Pure_virtual_function.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.obj
+.PHONY : src/function/Pure_virtual_function.cpp.obj
+
+src/function/Pure_virtual_function.i: src/function/Pure_virtual_function.cpp.i
+.PHONY : src/function/Pure_virtual_function.i
+
+# target to preprocess a source file
+src/function/Pure_virtual_function.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.i
+.PHONY : src/function/Pure_virtual_function.cpp.i
+
+src/function/Pure_virtual_function.s: src/function/Pure_virtual_function.cpp.s
+.PHONY : src/function/Pure_virtual_function.s
+
+# target to generate assembly for a file
+src/function/Pure_virtual_function.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.s
+.PHONY : src/function/Pure_virtual_function.cpp.s
+
+src/function/The_destructor_function.obj: src/function/The_destructor_function.cpp.obj
+.PHONY : src/function/The_destructor_function.obj
+
+# target to build an object file
+src/function/The_destructor_function.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/The_destructor_function.cpp.obj
+.PHONY : src/function/The_destructor_function.cpp.obj
+
+src/function/The_destructor_function.i: src/function/The_destructor_function.cpp.i
+.PHONY : src/function/The_destructor_function.i
+
+# target to preprocess a source file
+src/function/The_destructor_function.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/The_destructor_function.cpp.i
+.PHONY : src/function/The_destructor_function.cpp.i
+
+src/function/The_destructor_function.s: src/function/The_destructor_function.cpp.s
+.PHONY : src/function/The_destructor_function.s
+
+# target to generate assembly for a file
+src/function/The_destructor_function.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/The_destructor_function.cpp.s
+.PHONY : src/function/The_destructor_function.cpp.s
+
+src/function/Virtual_function.obj: src/function/Virtual_function.cpp.obj
+.PHONY : src/function/Virtual_function.obj
+
+# target to build an object file
+src/function/Virtual_function.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Virtual_function.cpp.obj
+.PHONY : src/function/Virtual_function.cpp.obj
+
+src/function/Virtual_function.i: src/function/Virtual_function.cpp.i
+.PHONY : src/function/Virtual_function.i
+
+# target to preprocess a source file
+src/function/Virtual_function.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Virtual_function.cpp.i
+.PHONY : src/function/Virtual_function.cpp.i
+
+src/function/Virtual_function.s: src/function/Virtual_function.cpp.s
+.PHONY : src/function/Virtual_function.s
+
+# target to generate assembly for a file
+src/function/Virtual_function.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Virtual_function.cpp.s
+.PHONY : src/function/Virtual_function.cpp.s
 
 src/inheritance.obj: src/inheritance.cpp.obj
 .PHONY : src/inheritance.obj
@@ -669,39 +669,39 @@ help:
 	@echo "... src/C++Array.obj"
 	@echo "... src/C++Array.i"
 	@echo "... src/C++Array.s"
-	@echo "... src/Constructor_function.obj"
-	@echo "... src/Constructor_function.i"
-	@echo "... src/Constructor_function.s"
 	@echo "... src/Implicit_and_explicit.obj"
 	@echo "... src/Implicit_and_explicit.i"
 	@echo "... src/Implicit_and_explicit.s"
 	@echo "... src/Log.obj"
 	@echo "... src/Log.i"
 	@echo "... src/Log.s"
-	@echo "... src/Member_initializer_list.obj"
-	@echo "... src/Member_initializer_list.i"
-	@echo "... src/Member_initializer_list.s"
-	@echo "... src/Operator_and_overloads.obj"
-	@echo "... src/Operator_and_overloads.i"
-	@echo "... src/Operator_and_overloads.s"
-	@echo "... src/Pure_virtual_function.obj"
-	@echo "... src/Pure_virtual_function.i"
-	@echo "... src/Pure_virtual_function.s"
-	@echo "... src/Ternary_operator.obj"
-	@echo "... src/Ternary_operator.i"
-	@echo "... src/Ternary_operator.s"
-	@echo "... src/The_destructor_function.obj"
-	@echo "... src/The_destructor_function.i"
-	@echo "... src/The_destructor_function.s"
-	@echo "... src/Virtual_function.obj"
-	@echo "... src/Virtual_function.i"
-	@echo "... src/Virtual_function.s"
+	@echo "... src/Operator/Operator_and_overloads.obj"
+	@echo "... src/Operator/Operator_and_overloads.i"
+	@echo "... src/Operator/Operator_and_overloads.s"
+	@echo "... src/Operator/Ternary_operator.obj"
+	@echo "... src/Operator/Ternary_operator.i"
+	@echo "... src/Operator/Ternary_operator.s"
 	@echo "... src/const/C++const.obj"
 	@echo "... src/const/C++const.i"
 	@echo "... src/const/C++const.s"
 	@echo "... src/const/mutable.obj"
 	@echo "... src/const/mutable.i"
 	@echo "... src/const/mutable.s"
+	@echo "... src/function/Constructor_function.obj"
+	@echo "... src/function/Constructor_function.i"
+	@echo "... src/function/Constructor_function.s"
+	@echo "... src/function/Member_initializer_list.obj"
+	@echo "... src/function/Member_initializer_list.i"
+	@echo "... src/function/Member_initializer_list.s"
+	@echo "... src/function/Pure_virtual_function.obj"
+	@echo "... src/function/Pure_virtual_function.i"
+	@echo "... src/function/Pure_virtual_function.s"
+	@echo "... src/function/The_destructor_function.obj"
+	@echo "... src/function/The_destructor_function.i"
+	@echo "... src/function/The_destructor_function.s"
+	@echo "... src/function/Virtual_function.obj"
+	@echo "... src/function/Virtual_function.i"
+	@echo "... src/function/Virtual_function.s"
 	@echo "... src/inheritance.obj"
 	@echo "... src/inheritance.i"
 	@echo "... src/inheritance.s"
