@@ -249,30 +249,6 @@ src/Member_initializer_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Member_initializer_list.cpp.s
 .PHONY : src/Member_initializer_list.cpp.s
 
-src/Object_lifetime.obj: src/Object_lifetime.cpp.obj
-.PHONY : src/Object_lifetime.obj
-
-# target to build an object file
-src/Object_lifetime.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.obj
-.PHONY : src/Object_lifetime.cpp.obj
-
-src/Object_lifetime.i: src/Object_lifetime.cpp.i
-.PHONY : src/Object_lifetime.i
-
-# target to preprocess a source file
-src/Object_lifetime.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.i
-.PHONY : src/Object_lifetime.cpp.i
-
-src/Object_lifetime.s: src/Object_lifetime.cpp.s
-.PHONY : src/Object_lifetime.s
-
-# target to generate assembly for a file
-src/Object_lifetime.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Object_lifetime.cpp.s
-.PHONY : src/Object_lifetime.cpp.s
-
 src/Operator_and_overloads.obj: src/Operator_and_overloads.cpp.obj
 .PHONY : src/Operator_and_overloads.obj
 
@@ -513,6 +489,78 @@ src/new/new.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/new/new.cpp.s
 .PHONY : src/new/new.cpp.s
 
+src/ptr/Object_lifetime.obj: src/ptr/Object_lifetime.cpp.obj
+.PHONY : src/ptr/Object_lifetime.obj
+
+# target to build an object file
+src/ptr/Object_lifetime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/Object_lifetime.cpp.obj
+.PHONY : src/ptr/Object_lifetime.cpp.obj
+
+src/ptr/Object_lifetime.i: src/ptr/Object_lifetime.cpp.i
+.PHONY : src/ptr/Object_lifetime.i
+
+# target to preprocess a source file
+src/ptr/Object_lifetime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/Object_lifetime.cpp.i
+.PHONY : src/ptr/Object_lifetime.cpp.i
+
+src/ptr/Object_lifetime.s: src/ptr/Object_lifetime.cpp.s
+.PHONY : src/ptr/Object_lifetime.s
+
+# target to generate assembly for a file
+src/ptr/Object_lifetime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/Object_lifetime.cpp.s
+.PHONY : src/ptr/Object_lifetime.cpp.s
+
+src/ptr/smart_ptr.obj: src/ptr/smart_ptr.cpp.obj
+.PHONY : src/ptr/smart_ptr.obj
+
+# target to build an object file
+src/ptr/smart_ptr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/smart_ptr.cpp.obj
+.PHONY : src/ptr/smart_ptr.cpp.obj
+
+src/ptr/smart_ptr.i: src/ptr/smart_ptr.cpp.i
+.PHONY : src/ptr/smart_ptr.i
+
+# target to preprocess a source file
+src/ptr/smart_ptr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/smart_ptr.cpp.i
+.PHONY : src/ptr/smart_ptr.cpp.i
+
+src/ptr/smart_ptr.s: src/ptr/smart_ptr.cpp.s
+.PHONY : src/ptr/smart_ptr.s
+
+# target to generate assembly for a file
+src/ptr/smart_ptr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/smart_ptr.cpp.s
+.PHONY : src/ptr/smart_ptr.cpp.s
+
+src/ptr/this.obj: src/ptr/this.cpp.obj
+.PHONY : src/ptr/this.obj
+
+# target to build an object file
+src/ptr/this.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/this.cpp.obj
+.PHONY : src/ptr/this.cpp.obj
+
+src/ptr/this.i: src/ptr/this.cpp.i
+.PHONY : src/ptr/this.i
+
+# target to preprocess a source file
+src/ptr/this.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/this.cpp.i
+.PHONY : src/ptr/this.cpp.i
+
+src/ptr/this.s: src/ptr/this.cpp.s
+.PHONY : src/ptr/this.s
+
+# target to generate assembly for a file
+src/ptr/this.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/ptr/this.cpp.s
+.PHONY : src/ptr/this.cpp.s
+
 src/static/Static.obj: src/static/Static.cpp.obj
 .PHONY : src/static/Static.obj
 
@@ -609,30 +657,6 @@ src/string/string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/string/string.cpp.s
 .PHONY : src/string/string.cpp.s
 
-src/this.obj: src/this.cpp.obj
-.PHONY : src/this.obj
-
-# target to build an object file
-src/this.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.obj
-.PHONY : src/this.cpp.obj
-
-src/this.i: src/this.cpp.i
-.PHONY : src/this.i
-
-# target to preprocess a source file
-src/this.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.i
-.PHONY : src/this.cpp.i
-
-src/this.s: src/this.cpp.s
-.PHONY : src/this.s
-
-# target to generate assembly for a file
-src/this.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/this.cpp.s
-.PHONY : src/this.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -657,9 +681,6 @@ help:
 	@echo "... src/Member_initializer_list.obj"
 	@echo "... src/Member_initializer_list.i"
 	@echo "... src/Member_initializer_list.s"
-	@echo "... src/Object_lifetime.obj"
-	@echo "... src/Object_lifetime.i"
-	@echo "... src/Object_lifetime.s"
 	@echo "... src/Operator_and_overloads.obj"
 	@echo "... src/Operator_and_overloads.i"
 	@echo "... src/Operator_and_overloads.s"
@@ -690,6 +711,15 @@ help:
 	@echo "... src/new/new.obj"
 	@echo "... src/new/new.i"
 	@echo "... src/new/new.s"
+	@echo "... src/ptr/Object_lifetime.obj"
+	@echo "... src/ptr/Object_lifetime.i"
+	@echo "... src/ptr/Object_lifetime.s"
+	@echo "... src/ptr/smart_ptr.obj"
+	@echo "... src/ptr/smart_ptr.i"
+	@echo "... src/ptr/smart_ptr.s"
+	@echo "... src/ptr/this.obj"
+	@echo "... src/ptr/this.i"
+	@echo "... src/ptr/this.s"
 	@echo "... src/static/Static.obj"
 	@echo "... src/static/Static.i"
 	@echo "... src/static/Static.s"
@@ -702,9 +732,6 @@ help:
 	@echo "... src/string/string.obj"
 	@echo "... src/string/string.i"
 	@echo "... src/string/string.s"
-	@echo "... src/this.obj"
-	@echo "... src/this.i"
-	@echo "... src/this.s"
 .PHONY : help
 
 
