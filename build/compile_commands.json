@@ -16,6 +16,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/Operator/Arrow operator.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/Operator/Arrow operator.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/Operator/Operator and overloads.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/Operator/Operator and overloads.cpp"
 },

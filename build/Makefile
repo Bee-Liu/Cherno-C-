@@ -201,6 +201,30 @@ src/Log.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Log.cpp.s
 .PHONY : src/Log.cpp.s
 
+src/Operator/Arrow_operator.obj: src/Operator/Arrow_operator.cpp.obj
+.PHONY : src/Operator/Arrow_operator.obj
+
+# target to build an object file
+src/Operator/Arrow_operator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj
+.PHONY : src/Operator/Arrow_operator.cpp.obj
+
+src/Operator/Arrow_operator.i: src/Operator/Arrow_operator.cpp.i
+.PHONY : src/Operator/Arrow_operator.i
+
+# target to preprocess a source file
+src/Operator/Arrow_operator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.i
+.PHONY : src/Operator/Arrow_operator.cpp.i
+
+src/Operator/Arrow_operator.s: src/Operator/Arrow_operator.cpp.s
+.PHONY : src/Operator/Arrow_operator.s
+
+# target to generate assembly for a file
+src/Operator/Arrow_operator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.s
+.PHONY : src/Operator/Arrow_operator.cpp.s
+
 src/Operator/Operator_and_overloads.obj: src/Operator/Operator_and_overloads.cpp.obj
 .PHONY : src/Operator/Operator_and_overloads.obj
 
@@ -699,6 +723,9 @@ help:
 	@echo "... src/Log.obj"
 	@echo "... src/Log.i"
 	@echo "... src/Log.s"
+	@echo "... src/Operator/Arrow_operator.obj"
+	@echo "... src/Operator/Arrow_operator.i"
+	@echo "... src/Operator/Arrow_operator.s"
 	@echo "... src/Operator/Operator_and_overloads.obj"
 	@echo "... src/Operator/Operator_and_overloads.i"
 	@echo "... src/Operator/Operator_and_overloads.s"

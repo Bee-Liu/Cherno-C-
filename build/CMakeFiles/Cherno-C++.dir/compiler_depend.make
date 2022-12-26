@@ -7,17 +7,7 @@ CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj: G:/C++_TEst/Cherno-
 
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj: G:/C++_TEst/Cherno-C++/src/Log.cpp
 
-CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator/Operator\ and\ overloads.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator/Ternary\ operator.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
-
-CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Constructor\ function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Copy\ and\ copy\ constructors.cpp \
+CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator/Arrow\ operator.cpp \
   E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream \
   E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/istream \
   E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/ostream \
@@ -120,6 +110,18 @@ CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj: G:/C+
   E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/string \
   E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstring_insert.h
 
+CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator/Operator\ and\ overloads.cpp
+
+CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj: G:/C++_TEst/Cherno-C++/src/Operator/Ternary\ operator.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj: G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
+
+CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Constructor\ function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Copy\ and\ copy\ constructors.cpp
+
 CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Member\ initializer\ list.cpp
 
 CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.obj: G:/C++_TEst/Cherno-C++/src/function/Pure\ virtual\ function.cpp
@@ -149,7 +151,7 @@ CMakeFiles/Cherno-C++.dir/src/string/String_literals.cpp.obj: G:/C++_TEst/Cherno
 CMakeFiles/Cherno-C++.dir/src/string/string.cpp.obj: G:/C++_TEst/Cherno-C++/src/string/string.cpp
 
 
-G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream:
 
 D:/clang/lib/clang/15.0.6/include/__stddef_max_align_t.h:
 
@@ -157,23 +159,17 @@ E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/cstring:
 
 G:/C++_TEst/Cherno-C++/src/C++Array.cpp:
 
-G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
-
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdio.h:
 
 G:/C++_TEst/Cherno-C++/src/Implicit\ and\ explicit.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtr1common:
-
-G:/C++_TEst/Cherno-C++/src/Operator/Ternary\ operator.cpp:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xiosbase:
 
 G:/C++_TEst/Cherno-C++/src/Log.cpp:
 
-G:/C++_TEst/Cherno-C++/src/function/Constructor\ function.cpp:
+G:/C++_TEst/Cherno-C++/src/Operator/Arrow\ operator.cpp:
 
-G:/C++_TEst/Cherno-C++/src/Operator/Operator\ and\ overloads.cpp:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/istream:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/ostream:
 
@@ -187,27 +183,25 @@ G:/C++_TEst/Cherno-C++/src/string/string.cpp:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/ios:
 
-G:/C++_TEst/Cherno-C++/src/function/Copy\ and\ copy\ constructors.cpp:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream:
-
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/istream:
-
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wprocess.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xlocnum:
 
-C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdlib.h:
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/climits:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstring:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/climits:
+C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdlib.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/yvals_core.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/yvals.h:
 
+C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_terminate.h:
+
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xkeycheck.h:
+
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_exception.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/crtdefs.h:
 
@@ -263,6 +257,8 @@ C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_math
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtgmath.h:
 
+E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xtr1common:
+
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_typeinfo.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstddef:
@@ -297,11 +293,7 @@ E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/initializer_list:
 
 C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/malloc.h:
 
-E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/vcruntime_exception.h:
-
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/eh.h:
-
-C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/corecrt_terminate.h:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xmemory0:
 
@@ -374,6 +366,18 @@ C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.17763.0/ucrt/share.h:
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/string:
 
 E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstring_insert.h:
+
+G:/C++_TEst/Cherno-C++/src/Operator/Operator\ and\ overloads.cpp:
+
+G:/C++_TEst/Cherno-C++/src/Operator/Ternary\ operator.cpp:
+
+G:/C++_TEst/Cherno-C++/src/const/C++const.cpp:
+
+G:/C++_TEst/Cherno-C++/src/const/mutable.cpp:
+
+G:/C++_TEst/Cherno-C++/src/function/Constructor\ function.cpp:
+
+G:/C++_TEst/Cherno-C++/src/function/Copy\ and\ copy\ constructors.cpp:
 
 G:/C++_TEst/Cherno-C++/src/function/Member\ initializer\ list.cpp:
 

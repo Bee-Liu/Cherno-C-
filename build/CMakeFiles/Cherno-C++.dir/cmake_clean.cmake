@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj"

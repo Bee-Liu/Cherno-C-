@@ -10,23 +10,8 @@ CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj
 CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj
  G:/C++_TEst/Cherno-C++/src/Log.cpp
 
-CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj
- G:/C++_TEst/Cherno-C++/src/Operator/Operator and overloads.cpp
-
-CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj
- G:/C++_TEst/Cherno-C++/src/Operator/Ternary operator.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
- G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
-
-CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
- G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
-
-CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj
- G:/C++_TEst/Cherno-C++/src/function/Constructor function.cpp
-
-CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj
- G:/C++_TEst/Cherno-C++/src/function/Copy and copy constructors.cpp
+CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Operator/Arrow operator.cpp
  E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/iostream
  E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/istream
  E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/ostream
@@ -128,6 +113,24 @@ CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj
  C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt/share.h
  E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/string
  E:/vs2017/新建文件夹/VC/Tools/MSVC/14.16.27023/include/xstring_insert.h
+
+CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Operator/Operator and overloads.cpp
+
+CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/Operator/Ternary operator.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/const/C++const.cpp
+
+CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/const/mutable.cpp
+
+CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/function/Constructor function.cpp
+
+CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj
+ G:/C++_TEst/Cherno-C++/src/function/Copy and copy constructors.cpp
 
 CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj
  G:/C++_TEst/Cherno-C++/src/function/Member initializer list.cpp
