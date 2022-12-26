@@ -15,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.obj"

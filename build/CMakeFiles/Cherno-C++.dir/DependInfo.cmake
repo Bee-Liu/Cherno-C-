@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/const/C++const.cpp" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/const/mutable.cpp" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/function/Constructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/function/Copy and copy constructors.cpp" "CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/function/Member initializer list.cpp" "CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/Member_initializer_list.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/function/Pure virtual function.cpp" "CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/Pure_virtual_function.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/function/The destructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/function/The_destructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/The_destructor_function.cpp.obj.d"

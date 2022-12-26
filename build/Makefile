@@ -321,6 +321,30 @@ src/function/Constructor_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.s
 .PHONY : src/function/Constructor_function.cpp.s
 
+src/function/Copy_and_copy_constructors.obj: src/function/Copy_and_copy_constructors.cpp.obj
+.PHONY : src/function/Copy_and_copy_constructors.obj
+
+# target to build an object file
+src/function/Copy_and_copy_constructors.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.obj
+.PHONY : src/function/Copy_and_copy_constructors.cpp.obj
+
+src/function/Copy_and_copy_constructors.i: src/function/Copy_and_copy_constructors.cpp.i
+.PHONY : src/function/Copy_and_copy_constructors.i
+
+# target to preprocess a source file
+src/function/Copy_and_copy_constructors.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.i
+.PHONY : src/function/Copy_and_copy_constructors.cpp.i
+
+src/function/Copy_and_copy_constructors.s: src/function/Copy_and_copy_constructors.cpp.s
+.PHONY : src/function/Copy_and_copy_constructors.s
+
+# target to generate assembly for a file
+src/function/Copy_and_copy_constructors.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Copy_and_copy_constructors.cpp.s
+.PHONY : src/function/Copy_and_copy_constructors.cpp.s
+
 src/function/Member_initializer_list.obj: src/function/Member_initializer_list.cpp.obj
 .PHONY : src/function/Member_initializer_list.obj
 
@@ -690,6 +714,9 @@ help:
 	@echo "... src/function/Constructor_function.obj"
 	@echo "... src/function/Constructor_function.i"
 	@echo "... src/function/Constructor_function.s"
+	@echo "... src/function/Copy_and_copy_constructors.obj"
+	@echo "... src/function/Copy_and_copy_constructors.i"
+	@echo "... src/function/Copy_and_copy_constructors.s"
 	@echo "... src/function/Member_initializer_list.obj"
 	@echo "... src/function/Member_initializer_list.i"
 	@echo "... src/function/Member_initializer_list.s"

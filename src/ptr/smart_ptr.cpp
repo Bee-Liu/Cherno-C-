@@ -37,6 +37,8 @@
 //         //warnme:不能复制
 //         std::unique_ptr<Entity> entity1 = std::make_unique<Entity>();
 //         entity1->Print();
+//         // std::unique_ptr<Entity> entity2 = std::make_unique<Entity>();
+//         // entity2=entity1;//warnme:我们不能复制unique_ptr指针
 //     }
 
 //     {
