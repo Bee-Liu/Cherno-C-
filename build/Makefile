@@ -129,29 +129,77 @@ Cherno-C++/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/build
 .PHONY : Cherno-C++/fast
 
-src/C++Array.obj: src/C++Array.cpp.obj
-.PHONY : src/C++Array.obj
+src/Array/C++Array.obj: src/Array/C++Array.cpp.obj
+.PHONY : src/Array/C++Array.obj
 
 # target to build an object file
-src/C++Array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj
-.PHONY : src/C++Array.cpp.obj
+src/Array/C++Array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj
+.PHONY : src/Array/C++Array.cpp.obj
 
-src/C++Array.i: src/C++Array.cpp.i
-.PHONY : src/C++Array.i
+src/Array/C++Array.i: src/Array/C++Array.cpp.i
+.PHONY : src/Array/C++Array.i
 
 # target to preprocess a source file
-src/C++Array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.i
-.PHONY : src/C++Array.cpp.i
+src/Array/C++Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.i
+.PHONY : src/Array/C++Array.cpp.i
 
-src/C++Array.s: src/C++Array.cpp.s
-.PHONY : src/C++Array.s
+src/Array/C++Array.s: src/Array/C++Array.cpp.s
+.PHONY : src/Array/C++Array.s
 
 # target to generate assembly for a file
-src/C++Array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.s
-.PHONY : src/C++Array.cpp.s
+src/Array/C++Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.s
+.PHONY : src/Array/C++Array.cpp.s
+
+src/Array/Vector1.obj: src/Array/Vector1.cpp.obj
+.PHONY : src/Array/Vector1.obj
+
+# target to build an object file
+src/Array/Vector1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj
+.PHONY : src/Array/Vector1.cpp.obj
+
+src/Array/Vector1.i: src/Array/Vector1.cpp.i
+.PHONY : src/Array/Vector1.i
+
+# target to preprocess a source file
+src/Array/Vector1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.i
+.PHONY : src/Array/Vector1.cpp.i
+
+src/Array/Vector1.s: src/Array/Vector1.cpp.s
+.PHONY : src/Array/Vector1.s
+
+# target to generate assembly for a file
+src/Array/Vector1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.s
+.PHONY : src/Array/Vector1.cpp.s
+
+src/Array/Vector2.obj: src/Array/Vector2.cpp.obj
+.PHONY : src/Array/Vector2.obj
+
+# target to build an object file
+src/Array/Vector2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj
+.PHONY : src/Array/Vector2.cpp.obj
+
+src/Array/Vector2.i: src/Array/Vector2.cpp.i
+.PHONY : src/Array/Vector2.i
+
+# target to preprocess a source file
+src/Array/Vector2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.i
+.PHONY : src/Array/Vector2.cpp.i
+
+src/Array/Vector2.s: src/Array/Vector2.cpp.s
+.PHONY : src/Array/Vector2.s
+
+# target to generate assembly for a file
+src/Array/Vector2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.s
+.PHONY : src/Array/Vector2.cpp.s
 
 src/Implicit_and_explicit.obj: src/Implicit_and_explicit.cpp.obj
 .PHONY : src/Implicit_and_explicit.obj
@@ -714,9 +762,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cherno-C++"
-	@echo "... src/C++Array.obj"
-	@echo "... src/C++Array.i"
-	@echo "... src/C++Array.s"
+	@echo "... src/Array/C++Array.obj"
+	@echo "... src/Array/C++Array.i"
+	@echo "... src/Array/C++Array.s"
+	@echo "... src/Array/Vector1.obj"
+	@echo "... src/Array/Vector1.i"
+	@echo "... src/Array/Vector1.s"
+	@echo "... src/Array/Vector2.obj"
+	@echo "... src/Array/Vector2.i"
+	@echo "... src/Array/Vector2.s"
 	@echo "... src/Implicit_and_explicit.obj"
 	@echo "... src/Implicit_and_explicit.i"
 	@echo "... src/Implicit_and_explicit.s"

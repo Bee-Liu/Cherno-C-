@@ -1,8 +1,18 @@
 [
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
-  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj -c G:/C++_TEst/Cherno-C++/src/C++Array.cpp",
-  "file": "G:/C++_TEst/Cherno-C++/src/C++Array.cpp"
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj -c G:/C++_TEst/Cherno-C++/src/Array/C++Array.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/Array/C++Array.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj -c G:/C++_TEst/Cherno-C++/src/Array/Vector1.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/Array/Vector1.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj -c G:/C++_TEst/Cherno-C++/src/Array/Vector2.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/Array/Vector2.cpp"
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",

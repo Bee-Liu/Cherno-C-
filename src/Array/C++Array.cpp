@@ -11,6 +11,7 @@
 //         int* ptr;
 //         int count = sizeof(*example) / sizeof(int);
 //         std::cout<<count<<std::endl;
+
 //         std::array<int,5> another;
 //         for (int i = 0; i < another.size(); i++)
 //             example[i] = 2;

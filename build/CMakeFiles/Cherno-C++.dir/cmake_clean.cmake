@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj"
-  "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj"

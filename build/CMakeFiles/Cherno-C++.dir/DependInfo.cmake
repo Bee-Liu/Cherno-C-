@@ -8,7 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "G:/C++_TEst/Cherno-C++/src/C++Array.cpp" "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/C++Array.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Array/C++Array.cpp" "CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Array/C++Array.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Array/Vector1.cpp" "CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Array/Vector1.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/Array/Vector2.cpp" "CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Array/Vector2.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Implicit and explicit.cpp" "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Implicit_and_explicit.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Log.cpp" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Operator/Arrow operator.cpp" "CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Operator/Arrow_operator.cpp.obj.d"
