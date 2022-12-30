@@ -17,6 +17,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj.d"
+  "CMakeFiles/Cherno-C++.dir/src/auto.cpp.obj"
+  "CMakeFiles/Cherno-C++.dir/src/auto.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj"
   "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj.d"
   "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj"

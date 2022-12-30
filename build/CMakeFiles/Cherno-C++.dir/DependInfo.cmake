@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "G:/C++_TEst/Cherno-C++/src/Operator/Operator and overloads.cpp" "CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Operator/Operator_and_overloads.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/Operator/Ternary operator.cpp" "CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/The macro.cpp" "CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj.d"
+  "G:/C++_TEst/Cherno-C++/src/auto.cpp" "CMakeFiles/Cherno-C++.dir/src/auto.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/auto.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/const/C++const.cpp" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/C++const.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/const/mutable.cpp" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/const/mutable.cpp.obj.d"
   "G:/C++_TEst/Cherno-C++/src/function/Constructor function.cpp" "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj" "gcc" "CMakeFiles/Cherno-C++.dir/src/function/Constructor_function.cpp.obj.d"

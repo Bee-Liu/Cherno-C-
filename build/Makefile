@@ -345,6 +345,30 @@ src/The_macro.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.s
 .PHONY : src/The_macro.cpp.s
 
+src/auto.obj: src/auto.cpp.obj
+.PHONY : src/auto.obj
+
+# target to build an object file
+src/auto.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/auto.cpp.obj
+.PHONY : src/auto.cpp.obj
+
+src/auto.i: src/auto.cpp.i
+.PHONY : src/auto.i
+
+# target to preprocess a source file
+src/auto.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/auto.cpp.i
+.PHONY : src/auto.cpp.i
+
+src/auto.s: src/auto.cpp.s
+.PHONY : src/auto.s
+
+# target to generate assembly for a file
+src/auto.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/auto.cpp.s
+.PHONY : src/auto.cpp.s
+
 src/const/C++const.obj: src/const/C++const.cpp.obj
 .PHONY : src/const/C++const.obj
 
@@ -885,6 +909,9 @@ help:
 	@echo "... src/The_macro.obj"
 	@echo "... src/The_macro.i"
 	@echo "... src/The_macro.s"
+	@echo "... src/auto.obj"
+	@echo "... src/auto.i"
+	@echo "... src/auto.s"
 	@echo "... src/const/C++const.obj"
 	@echo "... src/const/C++const.i"
 	@echo "... src/const/C++const.s"
