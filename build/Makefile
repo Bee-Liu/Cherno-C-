@@ -321,6 +321,30 @@ src/Operator/Ternary_operator.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.s
 .PHONY : src/Operator/Ternary_operator.cpp.s
 
+src/The_macro.obj: src/The_macro.cpp.obj
+.PHONY : src/The_macro.obj
+
+# target to build an object file
+src/The_macro.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj
+.PHONY : src/The_macro.cpp.obj
+
+src/The_macro.i: src/The_macro.cpp.i
+.PHONY : src/The_macro.i
+
+# target to preprocess a source file
+src/The_macro.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.i
+.PHONY : src/The_macro.cpp.i
+
+src/The_macro.s: src/The_macro.cpp.s
+.PHONY : src/The_macro.s
+
+# target to generate assembly for a file
+src/The_macro.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.s
+.PHONY : src/The_macro.cpp.s
+
 src/const/C++const.obj: src/const/C++const.cpp.obj
 .PHONY : src/const/C++const.obj
 
@@ -513,6 +537,30 @@ src/function/Virtual_function.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/Virtual_function.cpp.s
 .PHONY : src/function/Virtual_function.cpp.s
 
+src/function/template.obj: src/function/template.cpp.obj
+.PHONY : src/function/template.obj
+
+# target to build an object file
+src/function/template.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/template.cpp.obj
+.PHONY : src/function/template.cpp.obj
+
+src/function/template.i: src/function/template.cpp.i
+.PHONY : src/function/template.i
+
+# target to preprocess a source file
+src/function/template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/template.cpp.i
+.PHONY : src/function/template.cpp.i
+
+src/function/template.s: src/function/template.cpp.s
+.PHONY : src/function/template.s
+
+# target to generate assembly for a file
+src/function/template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/function/template.cpp.s
+.PHONY : src/function/template.cpp.s
+
 src/inheritance.obj: src/inheritance.cpp.obj
 .PHONY : src/inheritance.obj
 
@@ -537,6 +585,30 @@ src/inheritance.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.s
 .PHONY : src/inheritance.cpp.s
 
+src/library/Static_library.obj: src/library/Static_library.cpp.obj
+.PHONY : src/library/Static_library.obj
+
+# target to build an object file
+src/library/Static_library.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/library/Static_library.cpp.obj
+.PHONY : src/library/Static_library.cpp.obj
+
+src/library/Static_library.i: src/library/Static_library.cpp.i
+.PHONY : src/library/Static_library.i
+
+# target to preprocess a source file
+src/library/Static_library.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/library/Static_library.cpp.i
+.PHONY : src/library/Static_library.cpp.i
+
+src/library/Static_library.s: src/library/Static_library.cpp.s
+.PHONY : src/library/Static_library.s
+
+# target to generate assembly for a file
+src/library/Static_library.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/library/Static_library.cpp.s
+.PHONY : src/library/Static_library.cpp.s
+
 src/new/Create_c++_objects.obj: src/new/Create_c++_objects.cpp.obj
 .PHONY : src/new/Create_c++_objects.obj
 
@@ -560,6 +632,30 @@ src/new/Create_c++_objects.s: src/new/Create_c++_objects.cpp.s
 src/new/Create_c++_objects.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/new/Create_c++_objects.cpp.s
 .PHONY : src/new/Create_c++_objects.cpp.s
+
+src/new/Heap_and_stack.obj: src/new/Heap_and_stack.cpp.obj
+.PHONY : src/new/Heap_and_stack.obj
+
+# target to build an object file
+src/new/Heap_and_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/new/Heap_and_stack.cpp.obj
+.PHONY : src/new/Heap_and_stack.cpp.obj
+
+src/new/Heap_and_stack.i: src/new/Heap_and_stack.cpp.i
+.PHONY : src/new/Heap_and_stack.i
+
+# target to preprocess a source file
+src/new/Heap_and_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/new/Heap_and_stack.cpp.i
+.PHONY : src/new/Heap_and_stack.cpp.i
+
+src/new/Heap_and_stack.s: src/new/Heap_and_stack.cpp.s
+.PHONY : src/new/Heap_and_stack.s
+
+# target to generate assembly for a file
+src/new/Heap_and_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cherno-C++.dir/build.make CMakeFiles/Cherno-C++.dir/src/new/Heap_and_stack.cpp.s
+.PHONY : src/new/Heap_and_stack.cpp.s
 
 src/new/new.obj: src/new/new.cpp.obj
 .PHONY : src/new/new.obj
@@ -786,6 +882,9 @@ help:
 	@echo "... src/Operator/Ternary_operator.obj"
 	@echo "... src/Operator/Ternary_operator.i"
 	@echo "... src/Operator/Ternary_operator.s"
+	@echo "... src/The_macro.obj"
+	@echo "... src/The_macro.i"
+	@echo "... src/The_macro.s"
 	@echo "... src/const/C++const.obj"
 	@echo "... src/const/C++const.i"
 	@echo "... src/const/C++const.s"
@@ -810,12 +909,21 @@ help:
 	@echo "... src/function/Virtual_function.obj"
 	@echo "... src/function/Virtual_function.i"
 	@echo "... src/function/Virtual_function.s"
+	@echo "... src/function/template.obj"
+	@echo "... src/function/template.i"
+	@echo "... src/function/template.s"
 	@echo "... src/inheritance.obj"
 	@echo "... src/inheritance.i"
 	@echo "... src/inheritance.s"
+	@echo "... src/library/Static_library.obj"
+	@echo "... src/library/Static_library.i"
+	@echo "... src/library/Static_library.s"
 	@echo "... src/new/Create_c++_objects.obj"
 	@echo "... src/new/Create_c++_objects.i"
 	@echo "... src/new/Create_c++_objects.s"
+	@echo "... src/new/Heap_and_stack.obj"
+	@echo "... src/new/Heap_and_stack.i"
+	@echo "... src/new/Heap_and_stack.s"
 	@echo "... src/new/new.obj"
 	@echo "... src/new/new.i"
 	@echo "... src/new/new.s"

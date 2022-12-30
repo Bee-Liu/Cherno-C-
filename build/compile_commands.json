@@ -21,6 +21,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/library/Static_library.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/library/Static library.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/library/Static library.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Log.cpp.obj -c G:/C++_TEst/Cherno-C++/src/Log.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/Log.cpp"
 },
@@ -38,6 +43,11 @@
   "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/Operator/Ternary_operator.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/Operator/Ternary operator.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/Operator/Ternary operator.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/The_macro.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/The macro.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/The macro.cpp"
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
@@ -81,6 +91,11 @@
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/function/template.cpp.obj -c G:/C++_TEst/Cherno-C++/src/function/template.cpp",
+  "file": "G:/C++_TEst/Cherno-C++/src/function/template.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/inheritance.cpp.obj -c G:/C++_TEst/Cherno-C++/src/inheritance.cpp",
   "file": "G:/C++_TEst/Cherno-C++/src/inheritance.cpp"
 },
@@ -88,6 +103,11 @@
   "directory": "G:/C++_TEst/Cherno-C++/build",
   "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/new/Create_c++_objects.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/new/Create c++ objects.cpp\"",
   "file": "G:/C++_TEst/Cherno-C++/src/new/Create c++ objects.cpp"
+},
+{
+  "directory": "G:/C++_TEst/Cherno-C++/build",
+  "command": "D:/clang/bin/clang++.exe  @CMakeFiles/Cherno-C++.dir/includes_CXX.rsp -std=c++14 -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles/Cherno-C++.dir/src/new/Heap_and_stack.cpp.obj -c \"G:/C++_TEst/Cherno-C++/src/new/Heap and stack.cpp\"",
+  "file": "G:/C++_TEst/Cherno-C++/src/new/Heap and stack.cpp"
 },
 {
   "directory": "G:/C++_TEst/Cherno-C++/build",

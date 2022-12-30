@@ -87,7 +87,11 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26,
+				27,
+				28,
+				29
 			]
 		}
 	],
@@ -149,7 +153,11 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26,
+				27,
+				28,
+				29
 			]
 		}
 	],
@@ -182,6 +190,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "src/library/Static library.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "src/Log.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -201,6 +215,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/Operator/Ternary operator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/The macro.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -254,6 +274,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "src/function/template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "src/inheritance.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -261,6 +287,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/new/Create c++ objects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/new/Heap and stack.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
